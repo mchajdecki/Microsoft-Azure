@@ -1,9 +1,5 @@
-# Microsoft-Azure
-Gettin Set up and Started with Microsoft Azure 
-
-
 <p align="center">
-<img src="https://imgur.com/PsqXwSc" alt="Azure Logo"/>
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
