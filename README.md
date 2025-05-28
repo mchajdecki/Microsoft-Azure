@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/EVhaRNV.png" alt="Azure Logo" Width="50px">
+<img src="https://imgur.com/EVhaRNV.png" alt="Azure Logo" Width="150px" Height="150px">
   
 </p>
 
