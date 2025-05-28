@@ -3,5 +3,5 @@
   
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Microsoft Azure - Set Up and Installation</h1>
+This tutorial outlines The installation and set up of Microsoft Azure, A cloud computing platform offered by microsoft<br />
