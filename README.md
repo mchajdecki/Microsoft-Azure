@@ -32,7 +32,7 @@ This tutorial outlines The set up and introduction to Microsoft Azure, A cloud c
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Navigate to <img src="https://azure.microsoft.com/en-us" alt="Azure Cloud"> 
+Navigate to <img href="https://azure.microsoft.com/en-us" alt="Azure Cloud"> 
 </p>
 <br />
 
