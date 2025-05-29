@@ -4,7 +4,7 @@
 </p>
 
 <h1>Microsoft Azure - Set Up and Getting Started</h1>
-This tutorial outlines The installation and set up of Microsoft Azure, A cloud computing platform offered by microsoft<br />
+This tutorial outlines The set up introduction to Microsoft Azure, A cloud computing platform offered by microsoft<br />
 
 <h2>Video Demonstration</h2>
 
