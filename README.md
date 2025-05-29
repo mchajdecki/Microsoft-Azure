@@ -8,7 +8,7 @@ This tutorial outlines The installation and set up of Microsoft Azure, A cloud c
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To Install and Set Up Microsoft Azure](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
