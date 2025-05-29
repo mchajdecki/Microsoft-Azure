@@ -17,7 +17,7 @@ This tutorial outlines The set up and introduction to Microsoft Azure, A cloud c
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Pro, version 22H2 - x64 Gen2
 
 <h2>List of Prerequisites</h2>
 
