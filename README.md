@@ -12,9 +12,10 @@ This tutorial outlines The set up and introduction to Microsoft Azure, A cloud c
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- Windows PC/Mac - Any Desktop
+- Valid Email Address
+- Internet Browser (Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari)
+- Credit Card (Optional) Free Trials Available
 
 <h2>Operating Systems Used </h2>
 
