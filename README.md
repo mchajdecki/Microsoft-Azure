@@ -26,7 +26,7 @@ This tutorial outlines The set up and introduction to Microsoft Azure, A cloud c
 - Microsoft Account
 - Payment Method 
 
-<h2>Installation Steps</h2>
+<h2>Getting Started With Microsoft Azure Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
