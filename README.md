@@ -13,9 +13,7 @@ This tutorial outlines The set up and introduction to Microsoft Azure, A cloud c
 <h2>Environments and Technologies Used</h2>
 
 - Windows PC/Mac - Any Desktop
-- Valid Email Address
 - Internet Browser (Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari)
-- Credit Card (Optional) Free Trials Available
 
 <h2>Operating Systems Used </h2>
 
@@ -23,8 +21,8 @@ This tutorial outlines The set up and introduction to Microsoft Azure, A cloud c
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
+- Valid Email Address
+- Credit Card (Optional) Free Trials Available
 - Item 3
 - Item 4
 - Item 5
