@@ -21,11 +21,10 @@ This tutorial outlines The set up and introduction to Microsoft Azure, A cloud c
 
 <h2>List of Prerequisites</h2>
 
-- Valid Email Address
-- Credit Card (Optional) Free Trials Available
-- Item 3
-- Item 4
-- Item 5
+- Windows PC or Mac / Laptop/Desktop 
+- Internet Access
+- Microsoft Account
+- Payment Method 
 
 <h2>Installation Steps</h2>
 
