@@ -6,9 +6,12 @@
 <h1>Microsoft Azure - Set Up and Getting Started</h1>
 This tutorial outlines ;
 <ul>
+<li>
+  
+</li>
 - The set up and introduction to Microsoft Azure - a cloud computing platform offered by microsoft.
 - Creating a Resource Group
-- Creating a Virtual Machine.<br /></ul>
+- Creating a Virtual Machine.</li></ul><br />
 
 <h2>Video Demonstration</h2>
 
