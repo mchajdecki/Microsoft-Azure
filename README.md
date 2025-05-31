@@ -4,8 +4,7 @@
 </p>
 
 <h1>Microsoft Azure - Set Up and Getting Started</h1>
-Mirosoct Azure is a cloud platform that helps you build, run, and manage applications and services through Microsoft’s data centers.
-chat c
+<h3>Mirosoft Azure is a cloud platform that helps you build, run, and manage applications and services through Microsoft’s data centers.</h3>
 This tutorial outlines ;
 <ul>
 <li>The set up and introduction to Microsoft Azure </li>
