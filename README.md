@@ -5,6 +5,8 @@
 
 <h1>Microsoft Azure - Set Up and Getting Started</h1>
 This tutorial outlines ;
+- Windows PC/Mac - Any Desktop
+- Internet Browser (Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari)
 - The set up and introduction to Microsoft Azure - a cloud computing platform offered by microsoft.
 - Creating a Resource Group
 - Creating a Virtual Machine.<br />
