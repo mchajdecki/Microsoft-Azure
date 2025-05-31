@@ -6,7 +6,7 @@
 <h1>Microsoft Azure - Set Up and Getting Started</h1>
 This tutorial outlines ;
 <ul>
-<li>The set up and introduction to Microsoft Azure - a cloud computing platform offered by microsoft.</li>
+<li>The set up and introduction to Microsoft Azure </li>
 <li>Creating a Resource Group</li>
 <li>Creating a Storage Account and Uploading A file</li>
 <li>Creating a Virtual Machine</li>
