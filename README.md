@@ -8,7 +8,11 @@ This tutorial outlines ;
 <ul>
 <li>
 - The set up and introduction to Microsoft Azure - a cloud computing platform offered by microsoft.
+</li>
+  <li>
 - Creating a Resource Group
+  </li>
+    <li>
 - Creating a Virtual Machine.
 </li>
 </ul><br />
