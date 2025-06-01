@@ -4,10 +4,10 @@
 </p>
 
 <h1>Microsoft Azure - Set Up and Getting Started</h1>
-<h3>Mirosoft Azure is a cloud platform that helps you build, run, and manage applications and services through Microsoft’s data centers.</h3>
+<h3>Microsoft Azure is a cloud platform that helps you build, run, and manage applications and services through Microsoft’s data centers.</h3>
 This tutorial outlines ;
 <ul>
-<li>The set up and introduction to Microsoft Azure </li>
+<li>The setup and introduction to Microsoft Azure </li>
 <li>Creating a Resource Group</li>
 <li>Creating a Storage Account and Working With Files</li>
 <li>Creating a Virtual Machine</li>
@@ -18,7 +18,7 @@ This tutorial outlines ;
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Getting Started With Microsoft Azure](https://www.youtube.com)
+- ### [YouTube: Getting Started With Microsoft Azure](https://youtu.be/PIO0gmaMXCg)
 
 <h2>Environments and Technologies Used</h2>
 
