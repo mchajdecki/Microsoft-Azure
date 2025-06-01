@@ -52,6 +52,9 @@ This tutorial outlines ;
 </p>
 <br />
 
+<h2>Signing Into Microsoft or Creating a New Microsoft Account</h2>
+
+
 <p>
 <img src="https://imgur.com/xhmypmU.png" height="80%" width="80%" alt="Creating An Account"/>
 </p>
