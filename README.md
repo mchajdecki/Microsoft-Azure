@@ -40,7 +40,7 @@ This tutorial outlines ;
 <h2>Getting Started With Azure Setup Steps</h2>
 
 <p>
-<img src="https://imgur.com/Rzlpw6V" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Rzlpw6V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Navigate to <a href="https://azure.microsoft.com/en-us">Azure Website</a> and click Get Started With Azure. 
