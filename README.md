@@ -53,7 +53,7 @@ This tutorial outlines ;
 <br />
 
 <p>
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Creating An Account"/>
+<img src="https://imgur.com/xhmypmU.png" height="80%" width="80%" alt="Creating An Account"/>
 </p>
 <p>
 <ul>
