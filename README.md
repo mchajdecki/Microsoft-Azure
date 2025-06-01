@@ -57,7 +57,7 @@ This tutorial outlines ;
 </p>
 <p>
 <ul>
-  <li> Once you have selected the right plan for you . Log into a microsoft account and If you dont have one go ahead and create one.</li>
+  <li> Once you have selected the right plan for you . Log into a microsoft account. If you dont have one go ahead and create one.</li>
 </ul>
 <br />
 
