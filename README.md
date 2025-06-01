@@ -41,7 +41,7 @@ This tutorial outlines ;
 <h2>Navigating to Azure Website and Creating an Account</h2>
 
 <p>
-<img src="https://imgur.com/Rzlpw6V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/E3TihXF.png" height="80%" width="80%" alt="Starting With Azure"/>
 </p>
 <p>
   <ul>
@@ -53,7 +53,7 @@ This tutorial outlines ;
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Creating An Account"/>
 </p>
 <p>
 <ul>
