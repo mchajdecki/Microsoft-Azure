@@ -24,6 +24,7 @@ This tutorial outlines ;
 
 - Windows PC/Mac - Any Desktop
 - Internet Browser (Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari)
+- Azure, Windows 10, Windows Server
 
 <h2>Operating Systems Used </h2>
 
