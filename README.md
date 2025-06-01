@@ -44,9 +44,11 @@ This tutorial outlines ;
 <img src="https://imgur.com/Rzlpw6V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Navigate to <a href="https://azure.microsoft.com/en-us">Azure Website</a> and click Get Started With Azure. 
-- Once you click Get Started With Azure you will be prompted to select either (Try Azure For Free) or (Pay As You Go Option). 
-- Read over the account that's right for you and select it to continue. 
+  <ul>
+    <li>- Navigate to <a href="https://azure.microsoft.com/en-us">Azure Website</a> and click Get Started With Azure.</li>
+<li>- Once you click Get Started With Azure you will be prompted to select either (Try Azure For Free) or (Pay As You Go Option). </li>
+<li>- Read over the account that's right for you and select it to continue. </li>
+    </ul>
 </p>
 <br />
 
