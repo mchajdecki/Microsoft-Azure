@@ -22,9 +22,9 @@ This tutorial outlines ;
 
 <h2>Environments and Technologies Used</h2>
 
-- Windows PC/Mac - Any Desktop
-- Internet Browser (Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari)
-- Azure, Windows 10, Windows Server
+- MacBook Air - Windows 10 on Virtual Machine 
+- Internet Browser (Google Chrome) for Mac - (Microsoft Edge) Windows VM
+- Microsoft Azure
 
 <h2>Operating Systems Used </h2>
 
