@@ -37,7 +37,8 @@ This tutorial outlines ;
 - Microsoft Account
 - Payment Method 
 
-<h1>Getting Started With Azure Setup Steps</h1>
+<h1>Getting Started With Azure Setup Steps</h1><br>
+
 <h2>Navigating to Azure Website and Creating an Account</h2>
 
 <p>
