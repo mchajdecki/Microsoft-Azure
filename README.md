@@ -37,7 +37,7 @@ This tutorial outlines ;
 - Microsoft Account
 - Payment Method 
 
-<h2>Getting Started With Azure Setup Steps</h2>
+<h21>Getting Started With Azure Setup Steps</h1>
 
 <p>
 <img src="https://imgur.com/Rzlpw6V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
