@@ -74,7 +74,8 @@ This tutorial outlines ;
 </p>
 <p>
 <ol type="1">
-  <li>Get familiar with the settings and features of the Azure Main Portal</li>
+  <li>Once the account has been created and you are logged in the Azure main page will look like this</li>
+  <li>Familiarize yourself with the features and navigation of Azure main portal</li>
 </ol>
 <br />
 
