@@ -82,6 +82,19 @@ This tutorial outlines ;
 </ol>
 <br />
 
+<h2>Azure Verification Steps Prior To Signing In</h2>
+
+
+<p>
+<img src="https://imgur.com/4n5Rvik.jpg" height="100%" width="80%" alt="Creating An Account"/>
+</p>
+<p>
+<ol type="1">
+  <li>Enter the verification details for your chosen Azure Account.</li>
+  <li>Continue through the steps to finish the Verification and account set Up.</li>
+</ol>
+<br />
+
 <h2>Azure Home Page Breakdown</h2>
 
 
