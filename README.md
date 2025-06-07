@@ -69,17 +69,16 @@ This tutorial outlines ;
 </ol>
 <br />
 
-<h2>Verification Steps Prior To Signing In</h2>
+<h2>Microsoft Verification Steps Prior To Signing In</h2>
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Creating An Account"/>
+<img src="https://imgur.com/lSgOFx8.jpeg" height="80%" width="80%" alt="Creating An Account"/>
 </p>
 <p>
 <ol type="1">
-  <li>Select the right Azure account for you.</li>
-  <li>Log into an existing microsoft account if you have one.</li>
-  <li>If you dont have an existing microsoft account, create one here.</li>
+  <li>Enter the verification details for your Microsoft Account.</li>
+  <li>Continue through the steps to finish the Set Up.</li>
 </ol>
 <br />
 
