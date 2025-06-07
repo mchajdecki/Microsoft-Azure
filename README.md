@@ -59,9 +59,11 @@ This tutorial outlines ;
 <img src="https://imgur.com/xhmypmU.png" height="80%" width="80%" alt="Creating An Account"/>
 </p>
 <p>
-<ul>
-  <li> Once you have selected the right plan for you . Log into a microsoft account. If you dont have one go ahead and create one.</li>
-</ul>
+<ol type="1">
+  <li>Select the right plan for you</li>
+  <li>Log into a exhisitng microsoft account</li>
+  <li>If you dont have a microsoft account, create one</li>
+</ol>
 <br />
 
 <p>
