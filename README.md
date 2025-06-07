@@ -93,16 +93,16 @@ This tutorial outlines ;
 <br />
 
 <h1>Creating a Resource Group</h1>
-<h2>Navigating to Azure Website and Creating an Account</h2>
+<h2>Input Step by Step Process Here </h2>
 
 <p>
-<img src="https://imgur.com/E3TihXF.png" height="80%" width="80%" alt="Starting With Azure"/>
+<img src="" height="80%" width="80%" alt="Starting With Azure"/>
 </p>
 <p>
   <ol type="1">
-    <li>Search on google or navigate in a browser to the <a href="https://azure.microsoft.com/en-us">Azure Website</a> and click Get Started With Azure located in a blue box.</li>
-    <li>Once you click Get Started With Azure you will be prompted to select either (Try Azure For Free) or (Pay As You Go Option). </li>
-    <li>Read over the account that's right for you and select it to continue. </li>
+    <li></li>
+    <li></li>
+    <li></li>
   </ol>
 </p>
 <br />
