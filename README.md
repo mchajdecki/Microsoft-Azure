@@ -36,7 +36,7 @@ This tutorial outlines ;
 - Internet Access
 - Microsoft Account
 - Payment Method
-  <br>
+  <br/>
 
 <h1>Getting Started With Azure Setup Steps</h1>
 <h2>Navigating to Azure Website and Creating an Account</h2>
