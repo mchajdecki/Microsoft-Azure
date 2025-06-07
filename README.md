@@ -73,9 +73,17 @@ This tutorial outlines ;
 <img src="https://imgur.com/pOC3Kk1.png" height="80%" width="80%" alt="Creating An Account"/>
 </p>
 <p>
+  <h4>Once the account has been created and you are logged in the Azure main page will look like this</h4>
 <ol type="1">
   <li>Once the account has been created and you are logged in the Azure main page will look like this</li>
   <li>Familiarize yourself with the features and navigation of Azure main portal</li>
+  <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
   </ol>
 <p>1	Portal menu. This global element can help you to navigate between services. Here, the portal menu is in flyout mode, so it's hidden until you select the menu icon.
 2	Breadcrumb. Use the breadcrumb links to move back a level in your workflow.
