@@ -44,11 +44,11 @@ This tutorial outlines ;
 <img src="https://imgur.com/E3TihXF.png" height="80%" width="80%" alt="Starting With Azure"/>
 </p>
 <p>
-  <ul type="1">
+  <ol type="1">
     <li>1️⃣ Search on google or navigate in a browser to the <a href="https://azure.microsoft.com/en-us">Azure Website</a> and click Get Started With Azure located in a blue box</li>
     <li>2️⃣ Once you click Get Started With Azure you will be prompted to select either (Try Azure For Free) or (Pay As You Go Option). </li>
     <li>3️⃣ Read over the account that's right for you and select it to continue. </li>
-  </ul>
+  </ol>
 </p>
 <br />
 
