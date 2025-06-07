@@ -73,29 +73,20 @@ This tutorial outlines ;
 <img src="https://imgur.com/pOC3Kk1.png" height="80%" width="80%" alt="Creating An Account"/>
 </p>
 <p>
-  <h4>Once the account has been created and you are logged in the Azure main page will look like this</h4>
+  <h4>Once the account has been created and you are logged in the Azure main page will look like this.
+  Familiarize yourself with the features and navigation of Azure main portal</h4>
 <ol type="1">
-  <li>Once the account has been created and you are logged in the Azure main page will look like this</li>
-  <li>Familiarize yourself with the features and navigation of Azure main portal</li>
-  <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
+  <li>Portal menu. This global element can help you to navigate between services. Here, the portal menu is in flyout mode, so it's hidden until you select the menu icon.</li>
+   <li>Breadcrumb. Use the breadcrumb links to move back a level in your workflow.</li>
+   <li>Page header. Appears at the top of every portal page and holds global elements.</li>
+   <li>Global search. Use the search bar in the page header to quickly find a specific resource, a service, or documentation.</li>
+   <li>Copilot. Provides quick access to Microsoft Copilot in Azure (preview).</li>
+   <li>Global controls. These controls for common tasks persist in the page header: Cloud Shell, Notifications, Settings, Support + Troubleshooting, and Feedback.</li>
+   <li>Your account. View information about your account, switch directories, sign out, or sign in with a different account.</li>
+  <li>Command bar. A group of controls that are contextual to your current focus.</li>
+  <li>Service menu. A menu with commands that are contextual to the service or resource that you're working with. Sometimes referred to as the resource menu.</li>
+  <li>Working pane. Displays details about the resource or service that's currently in focus.</li>
   </ol>
-<p>1	Portal menu. This global element can help you to navigate between services. Here, the portal menu is in flyout mode, so it's hidden until you select the menu icon.
-2	Breadcrumb. Use the breadcrumb links to move back a level in your workflow.
-3	Page header. Appears at the top of every portal page and holds global elements.
-4	Global search. Use the search bar in the page header to quickly find a specific resource, a service, or documentation.
-5	Copilot. Provides quick access to Microsoft Copilot in Azure (preview).
-6	Global controls. These controls for common tasks persist in the page header: Cloud Shell, Notifications, Settings, Support + Troubleshooting, and Feedback.
-7	Your account. View information about your account, switch directories, sign out, or sign in with a different account.
-8	Command bar. A group of controls that are contextual to your current focus.
-9	Service menu. A menu with commands that are contextual to the service or resource that you're working with. Sometimes referred to as the resource menu.
-10	Working pane. Displays details about the resource or service that's currently in focus.
-</p>
 <br />
 
 
