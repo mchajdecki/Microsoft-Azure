@@ -35,7 +35,8 @@ This tutorial outlines ;
 - Windows PC or Mac / Laptop/Desktop 
 - Internet Access
 - Microsoft Account
-- Payment Method 
+- Payment Method
+  <br>
 
 <h1>Getting Started With Azure Setup Steps</h1>
 <h2>Navigating to Azure Website and Creating an Account</h2>
