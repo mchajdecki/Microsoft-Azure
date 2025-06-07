@@ -69,6 +69,20 @@ This tutorial outlines ;
 </ol>
 <br />
 
+<h2>Verification Steps Prior To Signing In</h2>
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Creating An Account"/>
+</p>
+<p>
+<ol type="1">
+  <li>Select the right Azure account for you.</li>
+  <li>Log into an existing microsoft account if you have one.</li>
+  <li>If you dont have an existing microsoft account, create one here.</li>
+</ol>
+<br />
+
 <h2>Azure Home Page Breakdown</h2>
 
 
@@ -96,7 +110,7 @@ This tutorial outlines ;
 <h2>A ResourceGroup is a folder in the cloud that holds virtual machines, virtual networks, storage accounts and other created services.</h2>
 
 <p>
-<img src="" height="80%" width="80%" alt="Starting With Azure"/>
+<img src="https://imgur.com/gLnGejh.png" height="80%" width="80%" alt="Starting With Azure"/>
 </p>
 <p>
   <ol type="1">
