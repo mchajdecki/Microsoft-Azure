@@ -60,7 +60,7 @@ This tutorial outlines ;
 </p>
 <p>
 <ol type="1">
-  <li>Select the right plan for you</li>
+  <li>Select the right Azure account for you</li>
   <li>Log into an existing microsoft account if you have one</li>
   <li>If you dont have an existing microsoft account, create one here</li>
 </ol>
