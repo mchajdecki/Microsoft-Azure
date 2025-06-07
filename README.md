@@ -73,3 +73,18 @@ This tutorial outlines ;
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+
+<h2>Azure Home Page Breakdown</h2>
+
+
+<p>
+<img src="https://imgur.com/pOC3Kk1.png" height="80%" width="80%" alt="Creating An Account"/>
+</p>
+<p>
+<ol type="1">
+  <li>Get familiar with the settings and features of the Azure Main Portal</li>
+</ol>
+<br />
+
+
