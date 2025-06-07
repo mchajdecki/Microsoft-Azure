@@ -48,7 +48,7 @@ This tutorial outlines ;
 </p>
 <p>
   <ol type="1">
-    <li>Search on google or navigate in a browser to the <a href="https://azure.microsoft.com/en-us">Azure Website</a> and click Get Started With Azure located in a blue box</li>
+    <li>Search on google or navigate in a browser to the <a href="https://azure.microsoft.com/en-us">Azure Website</a> and click Get Started With Azure located in a blue box.</li>
     <li>Once you click Get Started With Azure you will be prompted to select either (Try Azure For Free) or (Pay As You Go Option). </li>
     <li>Read over the account that's right for you and select it to continue. </li>
   </ol>
@@ -63,9 +63,9 @@ This tutorial outlines ;
 </p>
 <p>
 <ol type="1">
-  <li>Select the right Azure account for you</li>
-  <li>Log into an existing microsoft account if you have one</li>
-  <li>If you dont have an existing microsoft account, create one here</li>
+  <li>Select the right Azure account for you.</li>
+  <li>Log into an existing microsoft account if you have one.</li>
+  <li>If you dont have an existing microsoft account, create one here.</li>
 </ol>
 <br />
 
