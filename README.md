@@ -134,7 +134,7 @@ This tutorial outlines ;
 
 
 <p>
-<img src="https://imgur.com/a/iyFYdGn.png" height="80%" width="80%" alt="Creating a Resource Group"/>
+<img src="https://imgur.com/b6PUbSN" height="80%" width="80%" alt="Creating a Resource Group"/>
 </p>
 <p>
   <ol type="1">
