@@ -126,7 +126,7 @@ This tutorial outlines ;
 </p>
 <p>
   <ol type="1">
-    <li>Find the Resource Group Option on the home page of the Azure Portal or type in the search box/li>
+    <li>Find the Resource Group Option on the home page of the Azure Portal or type in the search box</li>
     <li>Click on the Resource Group Option to Continue</li>
   </ol>
 </p>
