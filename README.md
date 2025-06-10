@@ -134,7 +134,7 @@ This tutorial outlines ;
 
 
 <p>
-<img src="https://imgur.com/undefined.jpg" height="80%" width="80%" alt="Starting With Azure"/>
+<img src="https://imgur.com/undefined.jpeg" height="80%" width="80%" alt="Starting With Azure"/>
 </p>
 <p>
   <ol type="1">
