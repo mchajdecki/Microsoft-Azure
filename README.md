@@ -161,6 +161,18 @@ This tutorial outlines ;
 <br/>
 <hr>
 
+<p>
+<img src="https://imgur.com/QnMuRr7.jpg" height="80%" width="80%" alt="Creating a Resource Group"/>
+</p>
+<p>
+  <ol type="1">
+    <li>A prompt message will display that the resource group has been successfully created.</li>
+    <li>The Resource Group that you create will show in the Resource Group folder with the chosen name - in this example it is named (New_Group).</li>
+  </ol>
+</p>
+<br/>
+<hr>
+
 
 
 
