@@ -122,7 +122,7 @@ This tutorial outlines ;
 <h2>A ResourceGroup is a folder in the cloud that holds virtual machines, virtual networks, storage accounts and other created services.</h2>
 
 <p>
-<img src="https://imgur.com/gLnGejh.png" height="80%" width="80%" alt="Starting With Azure"/>
+<img src="https://imgur.com/gLnGejh.png" height="80%" width="80%" alt="Creating a Resource Group"/>
 </p>
 <p>
   <ol type="1">
@@ -134,7 +134,7 @@ This tutorial outlines ;
 
 
 <p>
-<img src="https://imgur.com/a/iyFYdGn.jpg" height="80%" width="80%" alt="Starting With Azure"/>
+<img src="https://imgur.com/undefined.jpg" height="80%" width="80%" alt="Creating a Resource Group"/>
 </p>
 <p>
   <ol type="1">
