@@ -122,7 +122,7 @@ This tutorial outlines ;
 <hr>
 
 <h1><strong>Creating a Resource Group</strong></h1>
-<h2>A ResourceGroup is a folder in the cloud that holds virtual machines, virtual networks, storage accounts and other created services.</h2>
+<h2>A Resource Group is a folder in the cloud that holds virtual machines, virtual networks, storage accounts and other created services.</h2>
 
 <p>
 <img src="https://imgur.com/gLnGejh.png" height="80%" width="80%" alt="Creating a Resource Group"/>
