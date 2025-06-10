@@ -147,4 +147,17 @@ This tutorial outlines ;
 <br />
 
 
+<p>
+<img src="https://imgur.com/LoKrnO4.jpg" height="80%" width="80%" alt="Creating a Resource Group"/>
+</p>
+<p>
+  <ol type="1">
+    <li>Click create again to continue.</li>
+  </ol>
+</p>
+<br />
+
+
+
+
 
