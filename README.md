@@ -126,8 +126,8 @@ This tutorial outlines ;
 </p>
 <p>
   <ol type="1">
-    <li>Find the Resource Group Option on the home page of the Azure Portal or type in the search box</li>
-    <li>Click on the Resource Group Option to Continue</li>
+    <li>Find the Resource Group Option on the home page of the Azure Portal or type in the search box.</li>
+    <li>Click on the Resource Group Option to Continue.</li>
   </ol>
 </p>
 <br />
@@ -138,10 +138,10 @@ This tutorial outlines ;
 </p>
 <p>
   <ol type="1">
-    <li>Select the subscription you are currently using</li>
-    <li>Name the resource group</li>
-    <li>Select the appropriate time zone you are located in</li>
-    <li>Click Review + Create on the bottom of the page to continue</li>
+    <li>Select the Subscription you are currently using.</li>
+    <li>Name the Resource Group.</li>
+    <li>Select the appropriate time zone you are located in.</li>
+    <li>Click Review + Create on the bottom of the page to continue.</li>
   </ol>
 </p>
 <br />
