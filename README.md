@@ -37,7 +37,8 @@ This tutorial outlines ;
 - Microsoft Account
 - Payment Method
   <br/>
-  <hr>
+
+<hr>
 
 
 <h1>The setup and introduction to Microsoft Azure</h1>
@@ -118,6 +119,7 @@ This tutorial outlines ;
   <li><strong>Working pane.</strong> Displays details about the resource or service that's currently in focus.</li>
   </ol>
 <br />
+<hr>
 
 <h1>Creating a Resource Group</h1>
 <h2>A ResourceGroup is a folder in the cloud that holds virtual machines, virtual networks, storage accounts and other created services.</h2>
@@ -156,8 +158,8 @@ This tutorial outlines ;
     <li>Click create again to continue.</li>
   </ol>
 </p>
-<br />
-
+<br/>
+<hr>
 
 
 
