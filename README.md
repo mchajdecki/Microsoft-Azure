@@ -133,3 +133,18 @@ This tutorial outlines ;
 <br />
 
 
+<p>
+<img src="https://imgur.com/undefined.jpg" height="80%" width="80%" alt="Starting With Azure"/>
+</p>
+<p>
+  <ol type="1">
+    <li>Select the subscription you are currently using</li>
+    <li>Name the resource group</li>
+    <li>Select the appropriate time zone you are located in</li>
+    <li>Click Review + Create on the bottom of the page to continue</li>
+  </ol>
+</p>
+<br />
+
+
+
