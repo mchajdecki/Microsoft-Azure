@@ -168,6 +168,7 @@ This tutorial outlines ;
   <ol type="1">
     <li>A prompt message will display that the resource group has been successfully created.</li>
     <li>The Resource Group that you create will show in the Resource Group folder with the chosen name - in this example it is named (New_Group).</li>
+    <li>The Resource Group has been created.</li>  
   </ol>
 </p>
 <br/>
