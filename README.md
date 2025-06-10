@@ -37,6 +37,7 @@ This tutorial outlines ;
 - Microsoft Account
 - Payment Method
   <br/>
+  <hr>
 
 
 <h1>The setup and introduction to Microsoft Azure</h1>
