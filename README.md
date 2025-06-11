@@ -200,5 +200,20 @@ This tutorial outlines ;
 <br />
 <hr>
 
+<p>
+<img src="https://imgur.com/9KRBOuX.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files"/>
+</p>
+<p>
+  <ol type="1">
+    <li>Select the current subscription you are using.</li>
+    <li>Select the resoure group created in the previous step to put your storage account into.</li>
+    <li>Name the storage account.</li>
+    <li>Select the time zone appropriate for your location.</li>
+    <li>Since we will only be storing a text file in this tutorial select the (Locally-redundant storage (LRS)) - which keeps your data safe by storing multiple copies within a single data center.</li>
+  </ol>
+</p>
+<br />
+<hr>
+
 
 
