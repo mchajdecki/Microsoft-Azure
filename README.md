@@ -182,8 +182,8 @@ This tutorial outlines ;
 </p>
 <p>
   <ol type="1">
-    <li></li>
-    <li></li>
+    <li>Locate the storage account on the main azure home page portal or search box.</li>
+    <li>Click on storage accounts option to continue.</li>
   </ol>
 </p>
 <br />
