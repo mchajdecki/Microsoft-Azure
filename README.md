@@ -189,5 +189,16 @@ This tutorial outlines ;
 <br />
 <hr>
 
+<p>
+<img src="https://imgur.com/zP453EH.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files"/>
+</p>
+<p>
+  <ol type="1">
+    <li>Click create in either the top left corner of the page or the option in the blue box below</li>
+  </ol>
+</p>
+<br />
+<hr>
+
 
 
