@@ -174,6 +174,20 @@ This tutorial outlines ;
 <br/>
 <hr>
 
+<h1><strong>Creating a Storage Account and Working With Files</strong></h1>
+<h2>A storage account is a service that provides a secure place to store data like files, queues, blobs, tables, and disks, is used to manage and access different types of cloud storage in one place.</h2>
+
+<p>
+<img src="https://imgur.com/ribCc8C.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files"/>
+</p>
+<p>
+  <ol type="1">
+    <li></li>
+    <li></li>
+  </ol>
+</p>
+<br />
+<hr>
 
 
 
