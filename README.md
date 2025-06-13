@@ -5,7 +5,7 @@
 
 <h1>Microsoft Azure - Set Up and Getting Started</h1>
 <h3>Microsoft Azure is a cloud platform that helps you build, run, and manage applications and services through Microsoft’s data centers.</h3>
-This tutorial outlines ;
+This tutorial outlines the following ;
 <ul style="list-style: none;">
 <li>The setup and introduction to Microsoft Azure</li>
 <li>Creating a Resource Group</li>
