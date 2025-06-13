@@ -226,4 +226,15 @@ This tutorial outlines ;
 <br />
 <hr>
 
+<p>
+<img src="https://imgur.com/HNzepCh.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files"/>
+</p>
+<p>
+  <ol type="1">
+    <li>A display message and notification of “Your deployment is complete” will display when the storage account creation is successfull</li>
+  </ol>
+</p>
+<br />
+<hr>
+
 
