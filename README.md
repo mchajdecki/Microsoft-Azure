@@ -231,10 +231,21 @@ This tutorial outlines ;
 </p>
 <p>
   <ol type="1">
-    <li>A display message and notification of “Your deployment is complete” will display when the storage account creation is successfull</li>
+    <li>A display message and notification of “Your deployment is complete” will display when the storage account creation is successfull.</li>
   </ol>
 </p>
 <br />
 <hr>
 
+<p>
+<img src="https://imgur.com/undefined.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files"/>
+</p>
+<p>
+  <ol type="1">
+    <li>The created storage account will be located in the appropriate resource group selected in the previous steps.</li>
+    <li>The storage account has been created successfully.</li>
+  </ol>
+</p>
+<br />
+<hr>
 
