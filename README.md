@@ -41,7 +41,7 @@ This tutorial outlines ;
 <hr>
 
 
-<h1><strong><i>The setup and introduction to Microsoft Azure</i></strong></h1>
+<h1><strong>The setup and introduction to Microsoft Azure</strong></h1>
 
 <h2>Navigating to Azure Website and Creating an Account</h2>
 
@@ -248,4 +248,21 @@ This tutorial outlines ;
 </p>
 <br />
 <hr>
+
+<h1><strong>Working With Files</strong></h1>
+<h2>These steps will show how to create a simple text file and upload it to our created Storage Account.</h2></h2>
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Creating a Resource Group"/>
+</p>
+<p>
+  <ol type="1">
+    <li></li>
+    <li></li>
+  </ol>
+</p>
+<br />
+<hr>
+
 
