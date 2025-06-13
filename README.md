@@ -227,7 +227,7 @@ This tutorial outlines ;
 <hr>
 
 <p>
-<img src="https://imgur.com/HNzepCh.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files"/>
+<img src="https://imgur.com/gjG0yVw.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files"/>
 </p>
 <p>
   <ol type="1">
