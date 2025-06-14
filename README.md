@@ -254,7 +254,7 @@ This tutorial outlines the following ;
 
 
 <p>
-<img src="https://imgur.com/qNNj9BM.jpg" height="80%" width="80%" alt="Workingwihfiles"/>
+<img src="https://imgur.com/QqiZ3ac.jpg" height="80%" width="80%" alt="Workingwihfiles"/>
 </p>
 <p>
   <ol type="1">
