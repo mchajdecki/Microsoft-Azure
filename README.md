@@ -258,8 +258,8 @@ This tutorial outlines the following ;
 </p>
 <p>
   <ol type="1">
-    <li></li>
-    <li></li>
+    <li>Locate Notepad on Windows or the Text Edit software on a Mac computer.</li>
+    <li>Open the software where we will create a simple text file.</li>
   </ol>
 </p>
 <br />
