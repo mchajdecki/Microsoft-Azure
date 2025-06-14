@@ -251,7 +251,7 @@ This tutorial outlines the following ;
 
 <h1><strong>Working With Files</strong></h1>
 <h2>These steps will show how to create a simple text file and upload it to our created Storage Account.</h2></h2>
-
+<h3>Locate and select the appropriate software to create a text file.</h3>
 
 <p>
 <img src="https://imgur.com/Yu26Pe5.jpg" height="100%" width="100%" alt="Workingwihfiles"/>
