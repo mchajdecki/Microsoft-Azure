@@ -254,7 +254,7 @@ This tutorial outlines the following ;
 
 
 <p>
-<img src="https://imgur.com/undefined.jpg" height="80%" width="80%" alt="Creating a Resource Group"/>
+<img src="https://imgur.com/undefined.jpg" height="80%" width="80%" alt="Workingwihfiles"/>
 </p>
 <p>
   <ol type="1">
