@@ -201,7 +201,6 @@ This tutorial outlines the following ;
 <hr>
 
 <p>
-<img src="https://imgur.com/9KRBOuX.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files"/>
 </p>
 <p>
   <ol type="1">
