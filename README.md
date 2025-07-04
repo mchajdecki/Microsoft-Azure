@@ -203,6 +203,7 @@ This tutorial outlines the following ;
 <p>
 </p>
 <p>
+  <img src="https://imgur.com/ooPR3KF.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files">
   <ol type="1">
     <li>Select the current subscription you are using.</li>
     <li>Select the resoure group created in the previous step to put your storage account into.</li>
