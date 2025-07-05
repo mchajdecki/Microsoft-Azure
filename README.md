@@ -305,3 +305,15 @@ This tutorial outlines the following ;
 </p>
 <br/>
 <hr>
+
+<p>
+<img src="https://imgur.com/jxKmHrP.jpg" height="80%" width="80%" alt="WorkingWithFiles">
+</p>
+<p>
+  <ol type="1">
+    <li>Once you are inside the newly created container click on the upload option.</li>
+    <li>An upload box will display to the right hand side of the screen where the file will be uploaded into.</li>
+  </ol>
+</p>
+</br>
+<hr>
