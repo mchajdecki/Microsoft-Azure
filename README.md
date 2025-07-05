@@ -317,3 +317,15 @@ This tutorial outlines the following ;
 </p>
 </br>
 <hr>
+
+<p>
+  <img src="https://imgur.com/VD4cmZW.jpg" height="80%" width="80%" alt="WorkingWithFiles">
+</p>
+<p>
+  <ol type="1">
+    <li>Once the text file has uploaded, click on the three dots on the right hand side and an option box will display.</li>
+    <li>Click the view/edit option to preview the uploaded text file.</li>
+  </ol>
+</p>
+</br>
+<hr>
