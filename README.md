@@ -41,7 +41,7 @@ This tutorial outlines the following ;
 <hr>
 
 
-<h1><strong>The setup and introduction to Microsoft Azure</strong></h1>
+<h1><strong>The setup and introduction to Microsoft Azure: Step By Step.</strong></h1>
 
 <h2>Navigating to Azure Website and Creating an Account</h2>
 
