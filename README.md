@@ -292,3 +292,16 @@ This tutorial outlines the following ;
 </p>
 <br/>
 <hr>
+
+<p>
+<img src="https://imgur.com/0fuL5di.jpg" height="80%" width="80%" alt="WorkingWithFiles">
+</p>
+<p>
+  <ol type="1">
+    <li>Click on Container option in the Data Storage drop down and a new Container box will display to the right of the screen.</li>
+    <li>Type in name for the newly created Container.</li>
+    <li>Click Create.</li>
+  </ol>
+</p>
+<br/>
+<hr>
