@@ -10,8 +10,7 @@ This tutorial outlines the following ;
 <li>The setup and introduction to Microsoft Azure</li>
 <li>Creating a Resource Group</li>
 <li>Creating a Storage Account and Working With Files</li>
-<li>Creating a Virtual Machine</li>
-<li>Logging into and Using a Virtual Machine</li>
+<li>Creating a Virtual Machine and Working With it</li>
 <li>Managing Resource Group and VM when not in use</li>
 </ul>
 <br />
