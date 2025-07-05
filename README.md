@@ -16,9 +16,9 @@ This tutorial outlines the following ;
 </ul>
 <br />
 
-<h2>Video Demonstration</h2>
-<h3>A Full Video Break Down Of Everything Discussed In This Tutorial.</h3>
-[YouTube: Getting Started With Microsoft Azure](https://youtu.be/PIO0gmaMXCg)
+<h2>A Video Break Down Of Everything Discussed In This Tutorial.</h2>
+
+- ### [YouTube: Getting Started With Microsoft Azure](https://youtu.be/PIO0gmaMXCg)
 
 <h2>Environments and Technologies Used</h2>
 
