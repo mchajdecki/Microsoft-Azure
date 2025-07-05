@@ -272,8 +272,8 @@ This tutorial outlines the following ;
 </p>
 <p>
  <ol type="1">
-   <li>Create A Simple Text File.</li>
-   <li>Save It On Desktop For Easy Access.</li>
+   <li>Create a simple text file.</li>
+   <li>Save it on desktop as a .txt file for easy access.</li>
  </ol>
 </p>
 <br/>
@@ -286,8 +286,8 @@ This tutorial outlines the following ;
 </p>
 <p>
   <ol type="1">
-    <li>Locate The Storage Account Created In The Previous Steps - Azure • Home • Storage Account</li>
-    <li>Find the Data Storage Option And Click On Containers</li>
+    <li>Locate the storage account created in the previous steps - Azure • Home • Storage Account</li>
+    <li>Find the data storage option and click on containers</li>
   </ol>
 </p>
 <br/>
