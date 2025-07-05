@@ -254,7 +254,7 @@ This tutorial outlines the following ;
 <h3>Locate and select the appropriate software to create a text file.</h3>
 
 <p>
-<img src="https://imgur.com/Yu26Pe5.jpg" height="100%" width="100%" alt="Workingwihfiles"/>
+<img src="https://imgur.com/Yu26Pe5.jpg" height="100%" width="100%" alt="WorkingWithFiles"/>
 </p>
 <p>
   <ol type="1">
@@ -262,7 +262,22 @@ This tutorial outlines the following ;
     <li>Open the software where we will create a simple text file.</li>
   </ol>
 </p>
-<br />
+<br/>
 <hr>
+
+<h3></h3>
+
+<p>
+<img src="https://imgur.com/DLpShVh.jpg" height="80%" width="80%" alt="WorkingWithFiles"/>
+</p>
+<p>
+ <ol type="1">
+   <li>Create A Simple Text File</li>
+   <li>Save It On Desktop For Easy Access</li>
+ </ol>
+</p>
+<br/>
+  
+</p>
 
 
