@@ -313,6 +313,7 @@ This tutorial outlines the following ;
   <ol type="1">
     <li>Once you are inside the newly created container click on the upload option.</li>
     <li>An upload box will display to the right hand side of the screen where the file will be uploaded into.</li>
+    <li>Drag and drop the created text file into the upload box.</li>
   </ol>
 </p>
 </br>
