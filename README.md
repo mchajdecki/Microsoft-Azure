@@ -277,7 +277,5 @@ This tutorial outlines the following ;
  </ol>
 </p>
 <br/>
-  
-</p>
-
+<hr>
 
