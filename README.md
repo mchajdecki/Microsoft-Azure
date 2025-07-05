@@ -265,15 +265,15 @@ This tutorial outlines the following ;
 <br/>
 <hr>
 
-<h3></h3>
+<h3>Creating Text File</h3>
 
 <p>
 <img src="https://imgur.com/DLpShVh.jpg" height="80%" width="80%" alt="WorkingWithFiles"/>
 </p>
 <p>
  <ol type="1">
-   <li>Create A Simple Text File</li>
-   <li>Save It On Desktop For Easy Access</li>
+   <li>Create A Simple Text File.</li>
+   <li>Save It On Desktop For Easy Access.</li>
  </ol>
 </p>
 <br/>
