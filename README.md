@@ -279,3 +279,16 @@ This tutorial outlines the following ;
 <br/>
 <hr>
 
+<h3>Where To Upload The Created Text File</h3>
+
+<p>
+  <img src="https://imgur.com/rwmLFIW.jpg" height="80%" width="80%" alt="WorkingWithFiles">
+</p>
+<p>
+  <ol type="1">
+    <li>Locate The Storage Account Created In The Previous Steps - Azure • Home • Storage Account</li>
+    <li>Find the Data Storage Option And Click On Containers</li>
+  </ol>
+</p>
+<br/>
+<hr>
