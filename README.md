@@ -329,3 +329,16 @@ This tutorial outlines the following ;
 </p>
 </br>
 <hr>
+
+<p>
+  <img src="https://imgur.com/4v584Uz.jpg" height="80%" width="80%" alt="WorkingWithFiles">
+</p>
+<p>
+  <ol type="1">
+    <li>After clicking on view/edit option the uploaded file will display a box.</li>
+    <li>Here you can edit - save - download the uploaded text file after any change has been made.</li>
+    <li>You have succesfully created and uploaded a Text File into the storage account on the Azure platform.</li>
+  </ol>
+</p>
+</br>
+<hr>
