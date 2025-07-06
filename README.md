@@ -443,6 +443,22 @@ created.</li>
   
 
 <h2>Logging Into a Virtual Machine</h2>
+<h3>Prior to logging into the Virtual Machine gather the log in credentials created and the public IP address associated with Virtual Machine.</h3>
+<p>
+  <img src="https://imgur.com/b7vTYwy.jpg" height="80%" width="80%" alt="LoggingIntoAVirtualMachine">
+</p>
+<p>
+  <ol type="1">
+    <li>Prior to logging into the Virtual Machine gather the log in credentials created and the public IP address associated with Virtual Machine. </li>
+    <li>This information can be found in the created VM - head over to Virtual Machine and click on Connect.</li>
+    <li>Copy the Public IP Address as you will need it for the Log In</li>
+  </ol>
+</p>
+</br>
+<hr>
+
+
+<h2>Logging Into a Virtual Machine</h2>
 <h3>The Virtual Machine that is accessed in this tutorial is from a Mac Computer to a Windows PC. Towards the end of the logging in tutorial the version of Windows PC to Mac Computer will be presented</h3>
 <p>
 <img src="https://imgur.com/CbwDqHR.jpeg" height="80%" width="80%" alt="LoggingIntoAVirtualMachine">
