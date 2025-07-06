@@ -365,3 +365,15 @@ This tutorial outlines the following ;
 </p>
 </br>
 <hr>
+
+<p>
+  <img src="https://imgur.com/undefined.jpg" height="80%" width="80%" alt="CreatingaVirtualMachine">
+</p>
+<p>
+  <ol type="1">
+    <li>Click create in either place on the Virtual Machines page.</li>
+    <li>Select and click on Virtual Machine from the drop down menu.</li>
+      </ol>
+</p>
+</br>
+<hr>
