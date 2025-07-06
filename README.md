@@ -351,3 +351,14 @@ This tutorial outlines the following ;
 <li>Logging into the Virtual Machine.</li>
 <li>Logging out of the VM and managing when not in use.</li>
 </ol>
+<p>
+  <img src="https://imgur.com/yQ6vLsV.jpg" height="80%" width="80%" alt="CreatingaVirtualMachine">
+</p>
+<p>
+  <ol type="1">
+    <li>Go to the home page on the Azure platform and locate Virtual Machines.</li>
+    <li>Click on Virutal Machine option to get started.</li>
+  </ol>
+</p>
+</br>
+<hr>
