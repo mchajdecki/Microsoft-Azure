@@ -446,11 +446,27 @@ created.</li>
 <h3>The Virtual Machine that is accessed in this tutorial is from a Mac Computer to a Windows PC. Towards the end of the logging in tutorial the version of Windows PC to Mac Computer will be presented</h3>
 <p>
 <img src="https://imgur.com/CbwDqHR.jpeg" height="80%" width="80%" alt="LoggingIntoAVirtualMachine">
+</p>
 <p>
   <ol type="1">
     <li>In the App Store on a Mac device search for the Windows App software.</li>
     <li>Proceed to download the software at it is necessary in order to log into the created Virtual Machine.</li>
     <li>Open the Windows App software.</li>
+  </ol>
 </p>
-  
+</br>
+<hr>
+
+<h2>Logging Into a Virtual Machine</h2>
+<p>
+  <img src="https://imgur.com/hiENwmI.jpg" height="80%" width="80%" alt="LoggingIntoAVirtualMachine">
 </p>
+<p>
+  <ol type="1">
+    <li>Click on the + sign in the right hand corner of the Windows App and observe a drop dowm menu appear.</li>
+    <li>From the drop down menu click on Add PC to continue the log in process.</li>
+  </ol>
+</p>
+</br>
+<hr>
+
