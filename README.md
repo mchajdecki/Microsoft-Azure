@@ -278,7 +278,7 @@ This tutorial outlines the following ;
 <br/>
 <hr>
 
-<h3>Where To Upload The Created Text File</h3>
+<h2>Uploading The Created Text File</h2>
 
 <p>
   <img src="https://imgur.com/rwmLFIW.jpg" height="80%" width="80%" alt="WorkingWithFiles">
@@ -291,6 +291,8 @@ This tutorial outlines the following ;
 </p>
 <br/>
 <hr>
+
+<h2>Uploading The Created Text File</h2>
 
 <p>
 <img src="https://imgur.com/0fuL5di.jpg" height="80%" width="80%" alt="WorkingWithFiles">
@@ -305,6 +307,8 @@ This tutorial outlines the following ;
 <br/>
 <hr>
 
+<h2>Uploading The Created Text File</h2>
+
 <p>
 <img src="https://imgur.com/jxKmHrP.jpg" height="80%" width="80%" alt="WorkingWithFiles">
 </p>
@@ -318,6 +322,8 @@ This tutorial outlines the following ;
 </br>
 <hr>
 
+<h2>Uploading The Created Text File</h2>
+
 <p>
   <img src="https://imgur.com/VD4cmZW.jpg" height="80%" width="80%" alt="WorkingWithFiles">
 </p>
@@ -329,6 +335,8 @@ This tutorial outlines the following ;
 </p>
 </br>
 <hr>
+
+<h2>Uploading The Created Text File</h2>
 
 <p>
   <img src="https://imgur.com/4v584Uz.jpg" height="80%" width="80%" alt="WorkingWithFiles">
