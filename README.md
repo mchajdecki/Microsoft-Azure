@@ -422,6 +422,7 @@ created.</li>
     <li>Keep certain options at their default setting.</li>
      <li>Make sure the box for Licensing is checked before proceeding.</li>
      <li>Click Review + Create.</li>
+  </ol>
 </p>
 </br>
 <hr>
@@ -435,10 +436,14 @@ created.</li>
     <li>A message will display that the Validation has passed.</li>
     <li>Click create on the bottom of the page to continue in creating the Virtual Machine.</li>
     <li>The Virtual Machine has been successfully create.</li>
+  </ol>
 </p>
+</br>
+<hr>
+  
 
 <h2>Logging Into a Virtual Machine</h2>
-<h3>I am using a Mac computer and i will present how to access it from Mac to the Windows VM - Once we are logged into the Windows VM i will present how to use the software there to log into a reversed version of the Virtual Machine.</h3>
+<h3>The virtual machine that is accessed in this tutorial is from a Mac computer to a windows. Towards the end of the logging in tutorial the version of Windows to Mac will be presented</h3>
 <p>
   
 </p>
