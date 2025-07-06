@@ -377,3 +377,23 @@ This tutorial outlines the following ;
 </p>
 </br>
 <hr>
+
+<p>
+  <img src="https://imgur.com/78l3CZn.jpg" height="80%" width="80%" alt="CreatingaVirtualMachine">
+</p>
+<p>
+  <ol type="1">
+    <li>Select the subscription you are using.</li>
+    <li>Select the Resource Group previously created to store the VM into.</li>
+    <li>Name the Virtual Machine.</li>
+    <li>Select the appropriate region you are using the VM from.</li>
+    <li>Here is where you will select the type of VM you want to use - etc. Windows Fro - Linux. For testing purposes select Windows 10 Pro version 22H2 - x64 Gen</li>
+    <li>Create a username and password *Remeber these credentials as you will be usingthem to log into the actual Virtual Machine once created
+created</li>
+    <li>Keep certain boxes at their default setting</li>
+     <li>Make sure the box for Licensing is checked before proceeding</li>
+     <li>Click Review + Create</li>
+    
+</p>
+</br>
+<hr>
