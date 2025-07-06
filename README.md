@@ -367,7 +367,7 @@ This tutorial outlines the following ;
 <hr>
 
 <p>
-  <img src="https://imgur.com/undefined.jpg" height="80%" width="80%" alt="CreatingaVirtualMachine">
+  <img src="https://imgur.com/UAegncY.jpg" height="80%" width="80%" alt="CreatingaVirtualMachine">
 </p>
 <p>
   <ol type="1">
