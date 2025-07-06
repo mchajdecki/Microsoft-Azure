@@ -435,7 +435,7 @@ created.</li>
   <ol type="1">
     <li>A message will display that the Validation has passed.</li>
     <li>Click create on the bottom of the page to continue in creating the Virtual Machine.</li>
-    <li>The Virtual Machine has been successfully create.</li>
+    <li>The Virtual Machine has been successfully created.</li>
   </ol>
 </p>
 </br>
