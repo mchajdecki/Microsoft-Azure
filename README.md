@@ -135,6 +135,8 @@ This tutorial outlines the following ;
 <br />
 <hr>
 
+<h2>Creating a Resource Group</h2>
+
 <p>
 <img src="https://imgur.com/ooPR3KF.jpg" height="80%" width="80%" alt="Creating a Resource Group"/>
 </p>
@@ -149,6 +151,9 @@ This tutorial outlines the following ;
 <br />
 <hr>
 
+<h2>Creating a Resource Group</h2>
+
+
 <p>
 <img src="https://imgur.com/LoKrnO4.jpg" height="80%" width="80%" alt="Creating a Resource Group"/>
 </p>
@@ -159,6 +164,9 @@ This tutorial outlines the following ;
 </p>
 <br/>
 <hr>
+
+<h2>Creating a Resource Group</h2>
+
 
 <p>
 <img src="https://imgur.com/QnMuRr7.jpg" height="80%" width="80%" alt="Creating a Resource Group"/>
