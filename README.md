@@ -443,7 +443,7 @@ created.</li>
   
 
 <h2>Logging Into a Virtual Machine</h2>
-<h3>The virtual machine that is accessed in this tutorial is from a Mac computer to a windows. Towards the end of the logging in tutorial the version of Windows to Mac will be presented</h3>
+<h3>The virtual machine that is accessed in this tutorial is from a Mac Computer to a Windows PC. Towards the end of the logging in tutorial the version of Windows PC to Mac Computer will be presented</h3>
 <p>
   
 </p>
