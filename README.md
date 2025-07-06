@@ -188,6 +188,8 @@ This tutorial outlines the following ;
 <br />
 <hr>
 
+<h2>Creating a Storage Account</h2>
+
 <p>
 <img src="https://imgur.com/UPZU49c.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files"/>
 </p>
@@ -199,8 +201,8 @@ This tutorial outlines the following ;
 <br />
 <hr>
 
-<p>
-</p>
+<h2>Creating a Storage Account</h2>
+
 <p>
   <img src="https://imgur.com/ooPR3KF.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files">
   <ol type="1">
@@ -214,6 +216,8 @@ This tutorial outlines the following ;
 <br />
 <hr>
 
+<h2>Creating a Storage Account</h2>
+
 <p>
 <img src="https://imgur.com/UGZemL4.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files">
 </p>
@@ -225,6 +229,8 @@ This tutorial outlines the following ;
 <br />
 <hr>
 
+<h2>Creating a Storage Account</h2>
+
 <p>
 <img src="https://imgur.com/91TLQf0.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files">
 </p>
@@ -235,6 +241,8 @@ This tutorial outlines the following ;
 </p>
 <br />
 <hr>
+
+<h2>Creating a Storage Account</h2>
 
 <p>
 <img src="https://imgur.com/dcK2s5T.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files">
