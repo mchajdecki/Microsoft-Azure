@@ -445,7 +445,7 @@ created.</li>
 <h2>Logging Into a Virtual Machine</h2>
 <h3>The Virtual Machine that is accessed in this tutorial is from a Mac Computer to a Windows PC. Towards the end of the logging in tutorial the version of Windows PC to Mac Computer will be presented</h3>
 <p>
-<img src="https://imgur.com/SxHFpd0.jpg" height="80%" width="80%" alt="LoggingIntoAVirtualMachine">
+<img src="https://imgur.com/CbwDqHR.jpeg" height="80%" width="80%" alt="LoggingIntoAVirtualMachine">
 <p>
   <ol type="1">
     <li>In the App Store on a Mac device locate the Windows App software.</li>
