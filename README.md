@@ -354,6 +354,7 @@ This tutorial outlines the following ;
 </br>
 <hr>
 
+<h2>Creating a Virtual Machine</h2>
 <p>
   <img src="https://imgur.com/L7iX6Ku.jpg" height="80%" width="80%" alt="CreatingaVirtualMachine">
 </p>
@@ -366,6 +367,8 @@ This tutorial outlines the following ;
 </br>
 <hr>
 
+<h2>Creating a Virtual Machine</h2>
+
 <p>
   <img src="https://imgur.com/UAegncY.jpg" height="80%" width="80%" alt="CreatingaVirtualMachine">
 </p>
@@ -377,6 +380,8 @@ This tutorial outlines the following ;
 </p>
 </br>
 <hr>
+
+<h2>Creating a Virtual Machine</h2>
 
 <p>
   <img src="https://imgur.com/78l3CZn.jpg" height="80%" width="80%" alt="CreatingaVirtualMachine">
