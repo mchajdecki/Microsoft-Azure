@@ -434,4 +434,11 @@ created.</li>
   <ol type="1">
     <li>A message will display that the Validation has passed.</li>
     <li>Click create on the bottom of the page to continue in creating the Virtual Machine.</li>
+    <li>The Virtual Machine has been successfully create.</li>
+</p>
+
+<h2>Logging Into a Virtual Machine</h2>
+<h3>I am using a Mac computer and i will present how to access it from Mac to the Windows VM - Once we are logged into the Windows VM i will present how to use the software there to log into a reversed version of the Virtual Machine.</h3>
+<p>
+  
 </p>
