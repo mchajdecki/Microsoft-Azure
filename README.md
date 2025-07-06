@@ -352,6 +352,8 @@ This tutorial outlines the following ;
 <li>Logging out of the VM and managing when not in use.</li>
 </ol>
 </br>
+<hr>
+
 <p>
   <img src="https://imgur.com/L7iX6Ku.jpg" height="80%" width="80%" alt="CreatingaVirtualMachine">
 </p>
