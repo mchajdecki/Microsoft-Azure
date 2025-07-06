@@ -301,8 +301,8 @@ This tutorial outlines the following ;
 </p>
 <p>
   <ol type="1">
-    <li>Locate the storage account created in the previous steps - Azure • Home • Storage Account</li>
-    <li>Find the data storage option and click on containers</li>
+    <li>Locate the storage account created in the previous steps - Azure • Home • Storage Account.</li>
+    <li>Find the data storage option and click on containers.</li>
   </ol>
 </p>
 <br/>
@@ -416,13 +416,22 @@ This tutorial outlines the following ;
     <li>Select the Resource Group previously created to store the VM into.</li>
     <li>Name the Virtual Machine.</li>
     <li>Select the appropriate region you are using the VM from.</li>
-    <li>Here is where you will select the type of VM you want to use - etc. Windows Fro - Linux. For testing purposes select Windows 10 Pro version 22H2 - x64 Gen</li>
-    <li>Create a username and password *Remeber these credentials as you will be usingthem to log into the actual Virtual Machine once created
-created</li>
-    <li>Keep certain boxes at their default setting</li>
-     <li>Make sure the box for Licensing is checked before proceeding</li>
-     <li>Click Review + Create</li>
-    
+    <li>Here is where you will select the type of VM you want to use - etc. Windows Fro - Linux. For testing purposes select Windows 10 Pro version 22H2 - x64 Gen.</li>
+    <li>Create a username and password *Remeber these credentials as you will be usingthem to log into the actual Virtual Machine once
+created.</li>
+    <li>Keep certain options at their default setting.</li>
+     <li>Make sure the box for Licensing is checked before proceeding.</li>
+     <li>Click Review + Create.</li>
 </p>
 </br>
 <hr>
+
+<h2>Creatng a Virtual Machine</h2>
+<p>
+  <img src="https://imgur.com/TxxRBtk.jpg" height="80%" width="80%" alt="CreatingaVirtualMachine">
+</p>
+<p> 
+  <ol type="1">
+    <li>A message will display that the Validation has passed.</li>
+    <li>Click create on the bottom of the page to continue in creating the Virtual Machine.</li>
+</p>
