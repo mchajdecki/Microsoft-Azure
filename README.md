@@ -353,7 +353,7 @@ This tutorial outlines the following ;
 </ol>
 </br>
 <p>
-  <img src="https://imgur.com/yQ6vLsV.jpg" height="80%" width="80%" alt="CreatingaVirtualMachine">
+  <img src="https://imgur.com/L7iX6Ku.jpg" height="80%" width="80%" alt="CreatingaVirtualMachine">
 </p>
 <p>
   <ol type="1">
