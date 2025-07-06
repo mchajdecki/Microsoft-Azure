@@ -342,3 +342,12 @@ This tutorial outlines the following ;
 </p>
 </br>
 <hr>
+
+<h1><strong>Creating a Virtual Machine and Working With it</strong></h1>
+<h2>An Azure Virutal Machine (VM) is a cloud-based virtual computer you can run and manage in Microsoft Azure.</h2>
+<h3>In this tutorial the following will be covered.</h3>
+<ol type="1">
+<li>Creating a Virtual Machine.</li>
+<li>Logging into the Virtual Machine.</li>
+<li>Logging out of the VM and managing when not in use.</li>
+</ol>
