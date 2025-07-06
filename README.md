@@ -448,8 +448,9 @@ created.</li>
 <img src="https://imgur.com/CbwDqHR.jpeg" height="80%" width="80%" alt="LoggingIntoAVirtualMachine">
 <p>
   <ol type="1">
-    <li>In the App Store on a Mac device locate the Windows App software.</li>
+    <li>In the App Store on a Mac device search for the Windows App software.</li>
     <li>Proceed to download the software at it is necessary in order to log into the created Virtual Machine.</li>
+    <li>Open the Windows App software.</li>
 </p>
   
 </p>
