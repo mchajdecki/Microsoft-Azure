@@ -380,7 +380,7 @@
 
 <h2>Creating a Virtual Machine</h2>
 <p>
-  <img src="https://imgur.com/L7iX6Ku.jpg"  alt="CreatingaVirtualMachine">
+  <img src="https://imgur.com/dARZmQu.jpg"  alt="CreatingaVirtualMachine24">
 </p>
 <p>
   <ol type="1">
@@ -394,7 +394,7 @@
 <h2>Creating a Virtual Machine</h2>
 
 <p>
-  <img src="https://imgur.com/UAegncY.jpg" alt="CreatingaVirtualMachine">
+  <img src="https://imgur.com/FsWWjfz.jpg" alt="CreatingaVirtualMachine25">
 </p>
 <p>
   <ol type="1">
@@ -408,7 +408,7 @@
 <h2>Creating a Virtual Machine</h2>
 
 <p>
-  <img src="https://imgur.com/78l3CZn.jpg" alt="CreatingaVirtualMachine">
+  <img src="https://imgur.com/d4I0EOu.jpg" alt="CreatingaVirtualMachine26">
 </p>
 <p>
   <ol type="1">
@@ -429,7 +429,7 @@ created.</li>
 
 <h2>Creatng a Virtual Machine</h2>
 <p>
-  <img src="https://imgur.com/TxxRBtk.jpg" alt="CreatingaVirtualMachine">
+  <img src="https://imgur.com/iyIazqE.jpg" alt="CreatingaVirtualMachine27">
 </p>
 <p> 
   <ol type="1">
@@ -445,7 +445,7 @@ created.</li>
 <h2>Logging Into a Virtual Machine</h2>
 <h3>Prior to logging into the Virtual Machine gather the log in credentials created and the public IP address associated with Virtual Machine.</h3>
 <p>
-  <img src="https://imgur.com/b7vTYwy.jpg" alt="LoggingIntoAVirtualMachine">
+  <img src="https://imgur.com/w1q0AuU.jpg" alt="LoggingIntoAVirtualMachine30">
 </p>
 <p>
   <ol type="1">
@@ -461,7 +461,7 @@ created.</li>
 <h2>Logging Into a Virtual Machine</h2>
 <h3>The Virtual Machine that is accessed in this tutorial is from a Mac Computer to a Windows PC. Towards the end of the logging in tutorial the version of Windows PC to Mac Computer will be presented</h3>
 <p>
-<img src="https://imgur.com/CbwDqHR.jpeg" alt="LoggingIntoAVirtualMachine">
+<img src="https://imgur.com/GiYEzda.jpeg" alt="LoggingIntoAVirtualMachine28">
 </p>
 <p>
   <ol type="1">
@@ -475,7 +475,7 @@ created.</li>
 
 <h2>Logging Into a Virtual Machine</h2>
 <p>
-  <img src="https://imgur.com/hiENwmI.jpg" alt="LoggingIntoAVirtualMachine">
+  <img src="https://imgur.com/OR7gFiF.jpg" alt="LoggingIntoAVirtualMachine29">
 </p>
 <p>
   <ol type="1">
