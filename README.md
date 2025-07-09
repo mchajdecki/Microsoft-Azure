@@ -100,7 +100,7 @@
 
 
 <p>
-<img src="https://imgur.com/pOC3Kk1.png" height="80%" width="80%" alt="Creating An Account"/>
+<img src="https://imgur.com/pOC3Kk1.png" alt="Creating An Account"/>
 </p>
 <p>
   <h4>Once the account has been created and you are logged in the Azure main page will look like this.
@@ -124,7 +124,7 @@
 <h2>A Resource Group is a folder in the cloud that holds virtual machines, virtual networks, storage accounts and other created services.</h2>
 
 <p>
-<img src="https://imgur.com/gLnGejh.png" height="80%" width="80%" alt="Creating a Resource Group"/>
+<img src="https://imgur.com/gLnGejh.png" alt="Creating a Resource Group"/>
 </p>
 <p>
   <ol type="1">
@@ -138,7 +138,7 @@
 <h2>Creating a Resource Group</h2>
 
 <p>
-<img src="https://imgur.com/ooPR3KF.jpg" height="80%" width="80%" alt="Creating a Resource Group"/>
+<img src="https://imgur.com/ooPR3KF.jpg" alt="Creating a Resource Group"/>
 </p>
 <p>
   <ol type="1">
@@ -155,7 +155,7 @@
 
 
 <p>
-<img src="https://imgur.com/LoKrnO4.jpg" height="80%" width="80%" alt="Creating a Resource Group"/>
+<img src="https://imgur.com/LoKrnO4.jpg" alt="Creating a Resource Group"/>
 </p>
 <p>
   <ol type="1">
@@ -169,7 +169,7 @@
 
 
 <p>
-<img src="https://imgur.com/QnMuRr7.jpg" height="80%" width="80%" alt="Creating a Resource Group"/>
+<img src="https://imgur.com/QnMuRr7.jpg" alt="Creating a Resource Group"/>
 </p>
 <p>
   <ol type="1">
@@ -185,7 +185,7 @@
 <h2>A storage account is a service that provides a secure place to store data like files, queues, blobs, tables, and disks, is used to manage and access different types of cloud storage in one place.</h2>
 
 <p>
-<img src="https://imgur.com/ribCc8C.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files"/>
+<img src="https://imgur.com/ribCc8C.jpg" alt="Creating a Storage Account and Working With Files"/>
 </p>
 <p>
   <ol type="1">
@@ -212,7 +212,7 @@
 <h2>Creating a Storage Account</h2>
 
 <p>
-  <img src="https://imgur.com/ooPR3KF.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files">
+  <img src="https://imgur.com/ooPR3KF.jpg" alt="Creating a Storage Account and Working With Files">
   <ol type="1">
     <li>Select the current subscription you are using.</li>
     <li>Select the resoure group created in the previous step to put your storage account into.</li>
@@ -227,7 +227,7 @@
 <h2>Creating a Storage Account</h2>
 
 <p>
-<img src="https://imgur.com/UGZemL4.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files">
+<img src="https://imgur.com/UGZemL4.jpg" alt="Creating a Storage Account and Working With Files">
 </p>
 <p>
   <ol type="1">
@@ -240,7 +240,7 @@
 <h2>Creating a Storage Account</h2>
 
 <p>
-<img src="https://imgur.com/91TLQf0.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files">
+<img src="https://imgur.com/91TLQf0.jpg" alt="Creating a Storage Account and Working With Files">
 </p>
 <p>
   <ol type="1">
@@ -253,7 +253,7 @@
 <h2>Creating a Storage Account</h2>
 
 <p>
-<img src="https://imgur.com/dcK2s5T.jpg" height="80%" width="80%" alt="Creating a Storage Account and Working With Files">
+<img src="https://imgur.com/dcK2s5T.jpg" alt="Creating a Storage Account and Working With Files">
 </p>
 <p>
   <ol type="1">
