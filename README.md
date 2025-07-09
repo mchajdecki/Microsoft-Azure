@@ -60,7 +60,7 @@
 
 
 <p>
-<img src="https://imgur.com/xhmypmU.png" height="80%" width="80%" alt="Creating An Account"/>
+<img src="https://imgur.com/xhmypmU.png" alt="Creating An Account"/>
 </p>
 <p>
 <ol type="1">
@@ -74,7 +74,7 @@
 
 
 <p>
-<img src="https://imgur.com/lSgOFx8.jpeg" height="80%" width="80%" alt="Creating An Account"/>
+<img src="https://imgur.com/lSgOFx8.jpeg" alt="Creating An Account"/>
 </p>
 <p>
 <ol type="1">
@@ -87,7 +87,7 @@
 
 
 <p>
-<img src="https://imgur.com/4n5Rvik.jpg" height="100%" width="80%" alt="Creating An Account"/>
+<img src="https://imgur.com/4n5Rvik.jpg" alt="Creating An Account"/>
 </p>
 <p>
 <ol type="1">
