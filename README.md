@@ -269,7 +269,7 @@
 <h3>Locate and select the appropriate software to create a text file.</h3>
 
 <p>
-<img src="https://imgur.com/Yu26Pe5.jpg" height="100%" width="100%" alt="WorkingWithFiles"/>
+<img src="https://imgur.com/Yu26Pe5.jpg" alt="WorkingWithFiles"/>
 </p>
 <p>
   <ol type="1">
@@ -283,7 +283,7 @@
 <h3>Creating Text File</h3>
 
 <p>
-<img src="https://imgur.com/DLpShVh.jpg" height="80%" width="80%" alt="WorkingWithFiles"/>
+<img src="https://imgur.com/DLpShVh.jpg" alt="WorkingWithFiles"/>
 </p>
 <p>
  <ol type="1">
@@ -297,7 +297,7 @@
 <h2>Uploading The Created Text File</h2>
 
 <p>
-  <img src="https://imgur.com/rwmLFIW.jpg" height="80%" width="80%" alt="WorkingWithFiles">
+  <img src="https://imgur.com/rwmLFIW.jpg" alt="WorkingWithFiles">
 </p>
 <p>
   <ol type="1">
@@ -311,7 +311,7 @@
 <h2>Uploading The Created Text File</h2>
 
 <p>
-<img src="https://imgur.com/0fuL5di.jpg" height="80%" width="80%" alt="WorkingWithFiles">
+<img src="https://imgur.com/0fuL5di.jpg" alt="WorkingWithFiles">
 </p>
 <p>
   <ol type="1">
@@ -326,7 +326,7 @@
 <h2>Uploading The Created Text File</h2>
 
 <p>
-<img src="https://imgur.com/jxKmHrP.jpg" height="80%" width="80%" alt="WorkingWithFiles">
+<img src="https://imgur.com/jxKmHrP.jpg" alt="WorkingWithFiles">
 </p>
 <p>
   <ol type="1">
@@ -341,7 +341,7 @@
 <h2>Uploading The Created Text File</h2>
 
 <p>
-  <img src="https://imgur.com/VD4cmZW.jpg" height="80%" width="80%" alt="WorkingWithFiles">
+  <img src="https://imgur.com/VD4cmZW.jpg" alt="WorkingWithFiles">
 </p>
 <p>
   <ol type="1">
@@ -355,7 +355,7 @@
 <h2>Uploading The Created Text File</h2>
 
 <p>
-  <img src="https://imgur.com/4v584Uz.jpg" height="80%" width="80%" alt="WorkingWithFiles">
+  <img src="https://imgur.com/4v584Uz.jpg" alt="WorkingWithFiles">
 </p>
 <p>
   <ol type="1">
@@ -380,7 +380,7 @@
 
 <h2>Creating a Virtual Machine</h2>
 <p>
-  <img src="https://imgur.com/L7iX6Ku.jpg" height="80%" width="80%" alt="CreatingaVirtualMachine">
+  <img src="https://imgur.com/L7iX6Ku.jpg"  alt="CreatingaVirtualMachine">
 </p>
 <p>
   <ol type="1">
@@ -394,7 +394,7 @@
 <h2>Creating a Virtual Machine</h2>
 
 <p>
-  <img src="https://imgur.com/UAegncY.jpg" height="80%" width="80%" alt="CreatingaVirtualMachine">
+  <img src="https://imgur.com/UAegncY.jpg" alt="CreatingaVirtualMachine">
 </p>
 <p>
   <ol type="1">
@@ -408,7 +408,7 @@
 <h2>Creating a Virtual Machine</h2>
 
 <p>
-  <img src="https://imgur.com/78l3CZn.jpg" height="80%" width="80%" alt="CreatingaVirtualMachine">
+  <img src="https://imgur.com/78l3CZn.jpg" alt="CreatingaVirtualMachine">
 </p>
 <p>
   <ol type="1">
@@ -429,7 +429,7 @@ created.</li>
 
 <h2>Creatng a Virtual Machine</h2>
 <p>
-  <img src="https://imgur.com/TxxRBtk.jpg" height="80%" width="80%" alt="CreatingaVirtualMachine">
+  <img src="https://imgur.com/TxxRBtk.jpg" alt="CreatingaVirtualMachine">
 </p>
 <p> 
   <ol type="1">
@@ -445,7 +445,7 @@ created.</li>
 <h2>Logging Into a Virtual Machine</h2>
 <h3>Prior to logging into the Virtual Machine gather the log in credentials created and the public IP address associated with Virtual Machine.</h3>
 <p>
-  <img src="https://imgur.com/b7vTYwy.jpg" height="80%" width="80%" alt="LoggingIntoAVirtualMachine">
+  <img src="https://imgur.com/b7vTYwy.jpg" alt="LoggingIntoAVirtualMachine">
 </p>
 <p>
   <ol type="1">
@@ -461,7 +461,7 @@ created.</li>
 <h2>Logging Into a Virtual Machine</h2>
 <h3>The Virtual Machine that is accessed in this tutorial is from a Mac Computer to a Windows PC. Towards the end of the logging in tutorial the version of Windows PC to Mac Computer will be presented</h3>
 <p>
-<img src="https://imgur.com/CbwDqHR.jpeg" height="80%" width="80%" alt="LoggingIntoAVirtualMachine">
+<img src="https://imgur.com/CbwDqHR.jpeg" alt="LoggingIntoAVirtualMachine">
 </p>
 <p>
   <ol type="1">
@@ -475,7 +475,7 @@ created.</li>
 
 <h2>Logging Into a Virtual Machine</h2>
 <p>
-  <img src="https://imgur.com/hiENwmI.jpg" height="80%" width="80%" alt="LoggingIntoAVirtualMachine">
+  <img src="https://imgur.com/hiENwmI.jpg" alt="LoggingIntoAVirtualMachine">
 </p>
 <p>
   <ol type="1">
