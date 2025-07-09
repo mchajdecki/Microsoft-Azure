@@ -45,7 +45,7 @@
 <h2>Navigating to Azure Website and Creating an Account</h2>
 
 <p>
-<img src="https://imgur.com/E3TihXF.png" alt="Starting With Azure"/>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/9bf61889a6455155c96763c825d094ca4c46459b/images/1.png" alt="Starting With Azure"/>
 </p>
 <p>
   <ol type="1">
