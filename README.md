@@ -9,7 +9,7 @@
   
 <li><a href="#intro">The setup and introduction to Microsoft Azure</a></li>
 <li><a href="#resource">Creating a Resource Group</a></li>
-<li>Creating a Storage Account and Working With Files</li>
+<li><a href="storage">Creating a Storage Account and Working With Files</li>
 <li>Creating a Virtual Machine and Working With it</li>
 <li>Managing Resource Group and VM when not in use</li>
 </ul>
@@ -181,7 +181,7 @@
 <br/>
 <hr>
 
-<h1><strong>Creating a Storage Account and Working With Files</strong></h1>
+<h1 id="storage">Creating a Storage Account and Working With Files</h1>
 <h2>A storage account is a service that provides a secure place to store data like files, queues, blobs, tables, and disks, is used to manage and access different types of cloud storage in one place.</h2>
 
 <p>
