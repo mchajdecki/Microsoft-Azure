@@ -7,7 +7,7 @@
 <h2>This tutorial outlines the following ;</h2>
 <ul>
   
-<li><a href="intro">The setup and introduction to Microsoft Azure</a></li>
+<li><a href="#intro">The setup and introduction to Microsoft Azure</a></li>
 <li><a href="#resource">Creating a Resource Group</a></li>
 <li>Creating a Storage Account and Working With Files</li>
 <li>Creating a Virtual Machine and Working With it</li>
