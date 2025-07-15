@@ -2,13 +2,12 @@
 <img src="https://imgur.com/EVhaRNV.png" alt="Azure Logo" Width="600px" Height="200px">
   
 </p>
-
 <h1>Microsoft Azure - Set Up and Getting Started</h1>
 <h3>Microsoft Azure is a cloud platform that helps you build, run, and manage applications and services through Microsoft’s data centers.</h3>
 <h2>This tutorial outlines the following ;</h2>
 <ul style="list-style: none;">
-<li>The setup and introduction to Microsoft Azure</li>
-<li>Creating a Resource Group</li>
+<li><a href="#intro">The setup and introduction to Microsoft Azure</li>
+<li><a href="#resource">Creating a Resource Group</li>
 <li>Creating a Storage Account and Working With Files</li>
 <li>Creating a Virtual Machine and Working With it</li>
 <li>Managing Resource Group and VM when not in use</li>
@@ -40,7 +39,7 @@
 <hr>
 
 
-<h1><strong>The setup and introduction to Microsoft Azure: Step By Step.</strong></h1>
+<h1 id="#intro"><strong>The setup and introduction to Microsoft Azure: Step By Step.</strong></h1>
 
 <h2>Navigating to Azure Website and Creating an Account</h2>
 
@@ -135,7 +134,7 @@
 <br />
 <hr>
 
-<h2>Creating a Resource Group</h2>
+<h2 id="#resource">Creating a Resource Group</h2>
 
 <p>
 <img src="https://imgur.com/ooPR3KF.jpg" alt="Creating a Resource Group"/>
