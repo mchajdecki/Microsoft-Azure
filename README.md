@@ -9,10 +9,10 @@
   
 <li><a href="#intro">The setup and introduction to Microsoft Azure</a></li>
 <li><a href="#resource">Creating a Resource Group</a></li>
-<li><a href="storage">Creating a Storage Account</a></li>
-<li><a href="files">Working With Files</a></li>
-<li><a href="vm">Creating a Virtual Machine and Working With it</a></li>
-<li><a href="manage">Managing Resource Group and VM when not in use</a></li>
+<li><a href="#storage">Creating a Storage Account</a></li>
+<li><a href="#files">Working With Files</a></li>
+<li><a href="#vm">Creating a Virtual Machine and Working With it</a></li>
+<li><a href="#manage">Managing Resource Group and VM when not in use</a></li>
 </ul>
 <br />
 
@@ -136,7 +136,7 @@
 <br />
 <hr>
 
-<h2 id="#resource">Creating a Resource Group</h2>
+<h2>Creating a Resource Group</h2>
 
 <p>
 <img src="https://imgur.com/ooPR3KF.jpg" alt="Creating a Resource Group"/>
@@ -182,7 +182,7 @@
 <br/>
 <hr>
 
-<h1 id="storage">Creating a Storage Account and Working With Files</h1>
+<h1 id="#storage">Creating a Storage Account and Working With Files</h1>
 <h2>A storage account is a service that provides a secure place to store data like files, queues, blobs, tables, and disks, is used to manage and access different types of cloud storage in one place.</h2>
 
 <p>
@@ -265,7 +265,7 @@
 <br />
 <hr>
 
-<h1 id="files">Working With Files</h1>
+<h1 id="#files">Working With Files</h1>
 <h2>These steps will show how to create a simple text file and upload it to the created Storage Account from the previous step.</h2>
 <h3>Locate and select the appropriate software to create a text file.</h3>
 
@@ -368,7 +368,7 @@
 </br>
 <hr>
 
-<h1 id="vm">Creating a Virtual Machine and Working With it</h1>
+<h1 id="#vm">Creating a Virtual Machine and Working With it</h1>
 <h2>An Azure Virutal Machine (VM) is a cloud-based virtual computer you can run and manage in Microsoft Azure.</h2>
 <h3>In this tutorial the following will be covered.</h3>
 <ol type="1">
