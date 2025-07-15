@@ -39,7 +39,7 @@
 <hr>
 
 
-<h1 id="#intro">The setup and introduction to Microsoft Azure: Step By Step.></h1>
+<h1 id="#intro">The setup and introduction to Microsoft Azure: Step By Step</h1>
 
 <h2>Navigating to Azure Website and Creating an Account</h2>
 
