@@ -6,8 +6,8 @@
 <h3>Microsoft Azure is a cloud platform that helps you build, run, and manage applications and services through Microsoft’s data centers.</h3>
 <h2>This tutorial outlines the following ;</h2>
 <ul style="list-style: none;">
-<li><a href="#intro">The setup and introduction to Microsoft Azure</li>
-<li><a href="#resource">Creating a Resource Group</li>
+<li><a href="#intro">The setup and introduction to Microsoft Azure</a></li>
+<li><a href="#resource">Creating a Resource Group</a></li>
 <li>Creating a Storage Account and Working With Files</li>
 <li>Creating a Virtual Machine and Working With it</li>
 <li>Managing Resource Group and VM when not in use</li>
