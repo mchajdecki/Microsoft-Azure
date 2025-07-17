@@ -368,7 +368,7 @@
 </br>
 <hr>
 
-<h1 id="vm">Creating a Virtual Machine and Working With it</h1>
+<h1 id="vm">Creating a Virtual Machine and Logging In</h1>
 <h2>An Azure Virutal Machine (VM) is a cloud-based virtual computer you can run and manage in Microsoft Azure.</h2>
 <h3>In this tutorial the following will be covered.</h3>
 <ol type="1">
