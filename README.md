@@ -182,7 +182,7 @@
 <br/>
 <hr>
 
-<h1 id="storage">Creating a Storage Account and Working With Files</h1>
+<h1 id="storage">Creating a Storage Account</h1>
 <h2>A storage account is a service that provides a secure place to store data like files, queues, blobs, tables, and disks, is used to manage and access different types of cloud storage in one place.</h2>
 
 <p>
