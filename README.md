@@ -430,7 +430,7 @@ created.</li>
 
 <h2>Creating a Virtual Machine</h2>
 <p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/6c875bf55e1189a8f6209a8f6414863fbf4f8478/images/Slide_26.jpg" alt="CreatingaVirtualMachine - Slide_26">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/95a413af6ef9b1e1154c1f15583ceb2f53785d92/images/Slide_26.jpg" alt="CreatingaVirtualMachine - Slide_26">
 </p>
 <p> 
   <ol type="1">
@@ -446,7 +446,7 @@ created.</li>
 <h2>Logging Into a Virtual Machine</h2>
 <h3>Prior to logging into the Virtual Machine gather the log in credentials created and the public IP address associated with Virtual Machine.</h3>
 <p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/4346b6159fb03ae8deba5d5b4c33f60d54883169/images/Slide_28.jpg" alt="LoggingIntoAVirtualMachine - Slide_28">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/95a413af6ef9b1e1154c1f15583ceb2f53785d92/images/Slide_27.jpg" alt="LoggingIntoAVirtualMachine - Slide_27">
 </p>
 <p>
   <ol type="1">
@@ -462,7 +462,7 @@ created.</li>
 <h2>Logging Into a Virtual Machine</h2>
 <h3>The Virtual Machine that is accessed in this tutorial is from a Mac Computer to a Windows PC. Towards the end of the logging in tutorial the version of Windows PC to Mac Computer will be presented</h3>
 <p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/4346b6159fb03ae8deba5d5b4c33f60d54883169/images/Slide_29.jpg" alt="LoggingIntoAVirtualMachine - Slide_29">
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/95a413af6ef9b1e1154c1f15583ceb2f53785d92/images/Slide_28.jpg" alt="LoggingIntoAVirtualMachine - Slide_28">
 </p>
 <p>
   <ol type="1">
@@ -476,7 +476,7 @@ created.</li>
 
 <h2>Logging Into a Virtual Machine</h2>
 <p>
-  <img src="" alt="LoggingIntoAVirtualMachine - Slide_29">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/95a413af6ef9b1e1154c1f15583ceb2f53785d92/images/Slide_29.jpg" alt="LoggingIntoAVirtualMachine - Slide_29">
 </p>
 <p>
   <ol type="1">
