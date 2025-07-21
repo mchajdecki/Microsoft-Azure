@@ -428,9 +428,9 @@ created.</li>
 </br>
 <hr>
 
-<h2>Creat9ng a Virtual Machine</h2>
+<h2>Creating a Virtual Machine</h2>
 <p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/b7d2a4d3ff35d6d885a3d81cecd771e4b38c5966/images/Slide_27.jpg" alt="CreatingaVirtualMachine - Slide_27">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/6c875bf55e1189a8f6209a8f6414863fbf4f8478/images/Slide_26.jpg" alt="CreatingaVirtualMachine - Slide_26">
 </p>
 <p> 
   <ol type="1">
