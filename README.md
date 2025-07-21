@@ -88,7 +88,7 @@
 
 
 <p>
-<img src="https://imgur.com/4n5Rvik.jpg" alt="Creating An Account"/>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/ba10361ffbf2a2eaf0ec5d8bb20cac0157bbb9be/images/Slide-4.jpg" alt="Creating An Account- Slide_4"/>
 </p>
 <p>
 <ol type="1">
