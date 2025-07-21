@@ -476,7 +476,7 @@ created.</li>
 
 <h2>Logging Into a Virtual Machine</h2>
 <p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/4346b6159fb03ae8deba5d5b4c33f60d54883169/images/Slide_30.jpg" alt="LoggingIntoAVirtualMachine - Slide_30">
+  <img src="" alt="LoggingIntoAVirtualMachine - Slide_29">
 </p>
 <p>
   <ol type="1">
