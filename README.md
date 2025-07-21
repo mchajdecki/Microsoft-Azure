@@ -46,7 +46,7 @@
 <h2>Navigating to Azure Website and Creating an Account</h2>
 
 <p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/9bf61889a6455155c96763c825d094ca4c46459b/images/1.png" alt="Starting With Azure"/>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/9bf61889a6455155c96763c825d094ca4c46459b/images/1.png" alt="Starting With Azure - Slide_1"/>
 </p>
 <p>
   <ol type="1">
@@ -61,7 +61,7 @@
 
 
 <p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/d029c1fa1397bb8afe2dea0bac099b65a08a735a/images/2.png" alt="Creating An Account"/>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/d029c1fa1397bb8afe2dea0bac099b65a08a735a/images/2.png" alt="Creating An Account - Slide_2"/>
 </p>
 <p>
 <ol type="1">
@@ -75,7 +75,7 @@
 
 
 <p>
-<img src="https://imgur.com/lSgOFx8.jpeg" alt="Creating An Account"/>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/6bc9799d5f6ae5a0b0366015fcdc6adb71dbf0cf/images/Slide-3.jpg" alt="Creating An Account - Slide_3"/>
 </p>
 <p>
 <ol type="1">
