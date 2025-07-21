@@ -139,7 +139,7 @@
 <h2>Creating a Resource Group</h2>
 
 <p>
-<img src="https://imgur.com/ooPR3KF.jpg" alt="Creating a Resource Group"/>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide-7.jpg" alt="Creating a Resource Group - Slide_7"/>
 </p>
 <p>
   <ol type="1">
@@ -156,7 +156,7 @@
 
 
 <p>
-<img src="https://imgur.com/LoKrnO4.jpg" alt="Creating a Resource Group"/>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide-8.jpg" alt="Creating a Resource Group - Slide_8"/>
 </p>
 <p>
   <ol type="1">
@@ -170,7 +170,7 @@
 
 
 <p>
-<img src="https://imgur.com/QnMuRr7.jpg" alt="Creating a Resource Group"/>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide-9.jpg" alt="Creating a Resource Group - Slide_9"/>
 </p>
 <p>
   <ol type="1">
@@ -186,7 +186,7 @@
 <h2>A storage account is a service that provides a secure place to store data like files, queues, blobs, tables, and disks, is used to manage and access different types of cloud storage in one place.</h2>
 
 <p>
-<img src="https://imgur.com/ribCc8C.jpg" alt="Creating a Storage Account and Working With Files"/>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide_10.jpg" alt="Creating a Storage Account and Working With Files - Slide_10"/>
 </p>
 <p>
   <ol type="1">
@@ -200,7 +200,7 @@
 <h2>Creating a Storage Account</h2>
 
 <p>
-<img src="https://imgur.com/UPZU49c.jpg" alt="Creating a Storage Account and Working With Files"/>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide_11.jpg" alt="Creating a Storage Account and Working With Files - Slide_11"/>
 </p>
 <p>
   <ol type="1">
