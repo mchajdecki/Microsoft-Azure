@@ -213,7 +213,7 @@
 <h2>Creating a Storage Account</h2>
 
 <p>
-  <img src="https://imgur.com/ooPR3KF.jpg" alt="Creating a Storage Account and Working With Files">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_12.jpg" alt="Creating a Storage Account and Working With Files - Slide_12">
   <ol type="1">
     <li>Select the current subscription you are using.</li>
     <li>Select the resoure group created in the previous step to put your storage account into.</li>
@@ -228,7 +228,7 @@
 <h2>Creating a Storage Account</h2>
 
 <p>
-<img src="https://imgur.com/UGZemL4.jpg" alt="Creating a Storage Account and Working With Files">
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_13.jpg" alt="Creating a Storage Account and Working With Files - Slide_13">
 </p>
 <p>
   <ol type="1">
@@ -241,7 +241,7 @@
 <h2>Creating a Storage Account</h2>
 
 <p>
-<img src="https://imgur.com/91TLQf0.jpg" alt="Creating a Storage Account and Working With Files">
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_14.jpg" alt="Creating a Storage Account and Working With Files - Slide_14">
 </p>
 <p>
   <ol type="1">
@@ -254,7 +254,7 @@
 <h2>Creating a Storage Account</h2>
 
 <p>
-<img src="https://imgur.com/dcK2s5T.jpg" alt="Creating a Storage Account and Working With Files">
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_15.jpg" alt="Creating a Storage Account and Working With Files - Slide_15">
 </p>
 <p>
   <ol type="1">
@@ -270,7 +270,7 @@
 <h3>Locate and select the appropriate software to create a text file.</h3>
 
 <p>
-<img src="https://imgur.com/Yu26Pe5.jpg" alt="WorkingWithFiles"/>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_16.jpg" alt="WorkingWithFiles - Slide_16"/>
 </p>
 <p>
   <ol type="1">
@@ -284,7 +284,7 @@
 <h3>Creating Text File</h3>
 
 <p>
-<img src="https://imgur.com/DLpShVh.jpg" alt="WorkingWithFiles"/>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_17.jpg" alt="WorkingWithFiles - Slide_17"/>
 </p>
 <p>
  <ol type="1">
@@ -298,7 +298,7 @@
 <h2>Uploading The Created Text File</h2>
 
 <p>
-  <img src="https://imgur.com/rwmLFIW.jpg" alt="WorkingWithFiles">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_18.jpg" alt="WorkingWithFiles - Slide_18">
 </p>
 <p>
   <ol type="1">
@@ -312,7 +312,7 @@
 <h2>Uploading The Created Text File</h2>
 
 <p>
-<img src="https://imgur.com/0fuL5di.jpg" alt="WorkingWithFiles">
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_19.jpg" alt="WorkingWithFiles - Slide_19">
 </p>
 <p>
   <ol type="1">
@@ -327,7 +327,7 @@
 <h2>Uploading The Created Text File</h2>
 
 <p>
-<img src="https://imgur.com/jxKmHrP.jpg" alt="WorkingWithFiles">
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_20.jpg" alt="WorkingWithFiles - Slide_20">
 </p>
 <p>
   <ol type="1">
@@ -342,7 +342,7 @@
 <h2>Uploading The Created Text File</h2>
 
 <p>
-  <img src="https://imgur.com/VD4cmZW.jpg" alt="WorkingWithFiles">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_21.jpg" alt="WorkingWithFiles - Slide_21">
 </p>
 <p>
   <ol type="1">
@@ -356,7 +356,7 @@
 <h2>Uploading The Created Text File</h2>
 
 <p>
-  <img src="https://imgur.com/4v584Uz.jpg" alt="WorkingWithFiles">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_22.jpg" alt="WorkingWithFiles - Slide_22">
 </p>
 <p>
   <ol type="1">
@@ -381,7 +381,7 @@
 
 <h2>Creating a Virtual Machine</h2>
 <p>
-  <img src="https://imgur.com/dARZmQu.jpg"  alt="CreatingaVirtualMachine24">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_23.jpg"  alt="CreatingaVirtualMachine _ Slide_23">
 </p>
 <p>
   <ol type="1">
@@ -395,7 +395,7 @@
 <h2>Creating a Virtual Machine</h2>
 
 <p>
-  <img src="https://imgur.com/FsWWjfz.jpg" alt="CreatingaVirtualMachine25">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_24.jpg" alt="CreatingaVirtualMachine - Slide_24">
 </p>
 <p>
   <ol type="1">
@@ -409,7 +409,7 @@
 <h2>Creating a Virtual Machine</h2>
 
 <p>
-  <img src="https://imgur.com/d4I0EOu.jpg" alt="CreatingaVirtualMachine26">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_25.jpg" alt="CreatingaVirtualMachine - Slide_25">
 </p>
 <p>
   <ol type="1">
@@ -430,7 +430,7 @@ created.</li>
 
 <h2>Creatng a Virtual Machine</h2>
 <p>
-  <img src="https://imgur.com/iyIazqE.jpg" alt="CreatingaVirtualMachine27">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_26.jpg" alt="CreatingaVirtualMachine - Slide_26">
 </p>
 <p> 
   <ol type="1">
@@ -446,7 +446,7 @@ created.</li>
 <h2>Logging Into a Virtual Machine</h2>
 <h3>Prior to logging into the Virtual Machine gather the log in credentials created and the public IP address associated with Virtual Machine.</h3>
 <p>
-  <img src="https://imgur.com/w1q0AuU.jpg" alt="LoggingIntoAVirtualMachine30">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_27.jpg" alt="LoggingIntoAVirtualMachine - Slide_27">
 </p>
 <p>
   <ol type="1">
@@ -462,7 +462,7 @@ created.</li>
 <h2>Logging Into a Virtual Machine</h2>
 <h3>The Virtual Machine that is accessed in this tutorial is from a Mac Computer to a Windows PC. Towards the end of the logging in tutorial the version of Windows PC to Mac Computer will be presented</h3>
 <p>
-<img src="https://imgur.com/GiYEzda.jpeg" alt="LoggingIntoAVirtualMachine28">
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_28.jpg" alt="LoggingIntoAVirtualMachine - Slide_28">
 </p>
 <p>
   <ol type="1">
@@ -476,7 +476,7 @@ created.</li>
 
 <h2>Logging Into a Virtual Machine</h2>
 <p>
-  <img src="https://imgur.com/OR7gFiF.jpg" alt="LoggingIntoAVirtualMachine29">
+  <img src="https://imgur.com/OR7gFiF.jpg" alt="LoggingIntoAVirtualMachine - Slide_29">
 </p>
 <p>
   <ol type="1">
