@@ -88,7 +88,7 @@
 
 
 <p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/ba10361ffbf2a2eaf0ec5d8bb20cac0157bbb9be/images/Slide-4.jpg" alt="Creating An Account- Slide_4"/>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/ba10361ffbf2a2eaf0ec5d8bb20cac0157bbb9be/images/Slide-4.jpg" alt="Creating An Account - Slide_4"/>
 </p>
 <p>
 <ol type="1">
@@ -101,7 +101,7 @@
 
 
 <p>
-<img src="https://imgur.com/pOC3Kk1.png" alt="Creating An Account"/>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a482d0c2d7e895dc4a95ed80be6b646379264302/images/Slide-5.jpg" alt="Creating An Account - Slide_5"/>
 </p>
 <p>
   <h4>Once the account has been created and you are logged in the Azure main page will look like this.
@@ -125,7 +125,7 @@
 <h2>A Resource Group is a folder in the cloud that holds virtual machines, virtual networks, storage accounts and other created services.</h2>
 
 <p>
-<img src="https://imgur.com/gLnGejh.png" alt="Creating a Resource Group"/>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a482d0c2d7e895dc4a95ed80be6b646379264302/images/Slide-6.jpg" alt="Creating a Resource Group - Slide_6"/>
 </p>
 <p>
   <ol type="1">
