@@ -12,7 +12,7 @@
 <li><a href="#storage">Creating a Storage Account</a></li>
 <li><a href="#files">Working With Files</a></li>
 <li><a href="#vm">Creating a Virtual Machine and Logging In</a></li>
-<li><a href="#manage">Managing Resource Group and VM when not in use</a></li>
+<li><a href="#manage">Managing Virtual Machine when not in use</a></li>
 </ul>
 <br />
 
