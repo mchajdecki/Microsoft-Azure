@@ -489,12 +489,14 @@ created.</li>
 
 <h2>Logging Into a Virtual Machine</h2>
 <p>
-  <img src="" alt="">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a9a63e5d632c2c84c56179cfeae2338a93bbe86b/images/Slide_30.jpg" alt="LoggingIntoAVirtualMachine - Slide_30">
 </p>
 <p>
   <ol type="1">
-    <li>An Add PC box will display</li>
+    <li>Add PC box will display</li>
     <li>Copy and Paste The Public IP address that was created in the Virtual Machine</li>
+    <li>The add option will be available to click after typing in the IP address</li>
   </ol>
 </p>
-</p>
+</br>
+<hr>
