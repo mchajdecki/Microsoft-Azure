@@ -493,9 +493,9 @@ created.</li>
 </p>
 <p>
   <ol type="1">
-    <li>Add PC box will display</li>
-    <li>Copy and Paste The Public IP address that was created in the Virtual Machine</li>
-    <li>The add option will be available to click after typing in the IP address</li>
+    <li>Add PC box will display.</li>
+    <li>Copy and Paste The Public IP address that was created in the Virtual Machine.</li>
+    <li>The add option will be available to click after typing in the IP address.</li>
   </ol>
 </p>
 </br>
