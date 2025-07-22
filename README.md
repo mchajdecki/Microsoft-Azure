@@ -487,3 +487,14 @@ created.</li>
 </br>
 <hr>
 
+<h2>Logging Into a Virtual Machine</h2>
+<p>
+  <img src="" alt="">
+</p>
+<p>
+  <ol type="1">
+    <li>An Add PC box will display</li>
+    <li>Copy and Paste The Public IP address that was created in the Virtual Machine</li>
+  </ol>
+</p>
+</p>
