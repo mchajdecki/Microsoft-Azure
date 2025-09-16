@@ -509,7 +509,7 @@ created.</li>
 <p>
   <ol type="1">
     <li>After copying and pasting the Public IP the PC Box will display</li>
-    <li>Double click the save PC box to continue</li>
+    <li>Double click the saved PC box to continue</li>
   </ol>
   </p>
   </br>
