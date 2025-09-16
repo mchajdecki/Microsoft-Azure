@@ -514,3 +514,17 @@ created.</li>
   </p>
   </br>
   <hr>
+
+  <h2>Logging Into a Virtual Machine</h2>
+<p>
+  <img src="" alt="LoggingIntoAVirtualMachine - Slide_32">
+</p>
+<p>
+  <ol type="1">
+    <li>Once the PC box is double clicked a pop up window will display</li>
+    <li>Here enter your usernam and password that was set up during the creation of the Virtual Machine</li>
+    <li>Enter the credentials and click continue</li>
+  </ol>
+  </p>
+  </br>
+  <hr>
