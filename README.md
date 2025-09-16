@@ -500,3 +500,16 @@ created.</li>
 </p>
 </br>
 <hr>
+
+<h2>Logging Into a Virtual Machine</h2>
+<p>
+  <img src="" alt="LoggingIntoAVirtualMachine - Slide_31">
+</p>
+<p>
+  <ol type="1">
+    <li></li>
+    <li></li>
+  </ol>
+  </p>
+  </br>
+  <hr>
