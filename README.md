@@ -496,6 +496,7 @@ created.</li>
     <li>Add PC box will display.</li>
     <li>Copy and Paste The Public IP address that was created in the Virtual Machine.</li>
     <li>The add option will be available to click after typing in the IP address.</li>
+    <li>Click add option to continue</li>
   </ol>
 </p>
 </br>
@@ -507,7 +508,7 @@ created.</li>
 </p>
 <p>
   <ol type="1">
-    <li>Following the previous step and Copy and Pasting the Public IP address and clicking the Add Option, a PC box will display</li>
+    <li>After copying and pasting the Public IP the PC Box will display</li>
     <li>Double click the save PC box to continue</li>
   </ol>
   </p>
