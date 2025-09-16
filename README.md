@@ -528,3 +528,18 @@ created.</li>
   </p>
   </br>
   <hr>
+
+
+  <h2>Logging Into a Virtual Machine</h2>
+<p>
+  <img src="" alt="LoggingIntoAVirtualMachine - Slide_33">
+</p>
+<p>
+  <ol type="1">
+    <li>A Welcome screen will display if all the steps were followed correctly.</li>
+  </ol>
+  </p>
+  </br>
+  <hr>
+
+  
