@@ -452,7 +452,7 @@ created.</li>
   <ol type="1">
     <li>Prior to logging into the Virtual Machine gather the log in credentials created and the public IP address associated with Virtual Machine. </li>
     <li>This information can be found in the created VM - head over to Virtual Machine and click on Connect.</li>
-    <li>Copy the Public IP Address as you will need it for the Log In</li>
+    <li>Copy the Public IP Address as you will need it for the Log In.</li>
   </ol>
 </p>
 </br>
@@ -496,7 +496,7 @@ created.</li>
     <li>Add PC box will display.</li>
     <li>Copy and Paste The Public IP address that was created in the Virtual Machine.</li>
     <li>The add option will be available to click after typing in the IP address.</li>
-    <li>Click add option to continue</li>
+    <li>Click add option to continue.</li>
   </ol>
 </p>
 </br>
@@ -508,8 +508,8 @@ created.</li>
 </p>
 <p>
   <ol type="1">
-    <li>After copying and pasting the Public IP the PC Box will display</li>
-    <li>Double click the saved PC box to continue</li>
+    <li>After copying and pasting the Public IP the PC Box will display.</li>
+    <li>Double click the saved PC box to continue.</li>
   </ol>
   </p>
   </br>
@@ -521,9 +521,9 @@ created.</li>
 </p>
 <p>
   <ol type="1">
-    <li>Once the PC box is double clicked a pop up window will display</li>
-    <li>Here enter your usernam and password that was set up during the creation of the Virtual Machine</li>
-    <li>Enter the credentials and click continue</li>
+    <li>Once the PC box is double clicked a pop up window will display.</li>
+    <li>Here enter your usernam and password that was set up during the creation of the Virtual Machine.</li>
+    <li>Enter the credentials and click continue.</li>
   </ol>
   </p>
   </br>
