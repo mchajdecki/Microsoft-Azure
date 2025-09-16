@@ -543,4 +543,14 @@ created.</li>
   </br>
   <hr>
 
-  
+  <h2>Logging Into a Virtual Machine</h2>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/5304e66eea2e9d80034689c3d90b351e1f1e1979/images/Slide_34.jpg" alt="LoggingIntoAVirtualMachine - Slide_34">
+</p>
+<p>
+ <ol type="1">
+ <li>Check all the prompts to No on this display screen to continue to the Windows Home Page</li>
+ </ol>
+ </p>
+ </br>
+ <hr>
