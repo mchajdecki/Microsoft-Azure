@@ -559,7 +559,7 @@ created.</li>
 
   <h2>Logging Into a Virtual Machine</h2>
 <p>
-  <img src="" alt="LoggingIntoAVirtualMachine - Slide_35">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/0944ae8630442293e1598a0ee2d0ae9d4d6edf73/images/Slide_35.jpg" alt="LoggingIntoAVirtualMachine - Slide_35">
 </p>
 <p>
  <ol type="1">
