@@ -532,11 +532,11 @@ created.</li>
 
   <h2>Logging Into a Virtual Machine</h2>
 <p>
-  <img src="" alt="LoggingIntoAVirtualMachine - Slide_33">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/75b52de34c4448a156a15b9b63ce50f0ea95360f/images/Slide_33.jpg" alt="LoggingIntoAVirtualMachine - Slide_33">
 </p>
 <p>
   <ol type="1">
-    <li>A Welcome screen will display if all the steps were followed correctly.</li>
+    <li>A Welcome screen to the Virtual Machine will display if all the steps were followed correctly.</li>
   </ol>
   </p>
   </br>
