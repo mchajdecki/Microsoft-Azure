@@ -503,12 +503,12 @@ created.</li>
 
 <h2>Logging Into a Virtual Machine</h2>
 <p>
-  <img src="" alt="LoggingIntoAVirtualMachine - Slide_31">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/d134a7038cc557ec3e7700c8a626de602995620b/images/Slide_31.jpg" alt="LoggingIntoAVirtualMachine - Slide_31">
 </p>
 <p>
   <ol type="1">
-    <li></li>
-    <li></li>
+    <li>Following the previous step and Copy and Pasting the Public IP address and clicking the Add Option, a PC box will display</li>
+    <li>Double click the save PC box to continue</li>
   </ol>
   </p>
   </br>
