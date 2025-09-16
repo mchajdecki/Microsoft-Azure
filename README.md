@@ -556,3 +556,15 @@ created.</li>
  </p>
  </br>
  <hr>
+
+  <h2>Logging Into a Virtual Machine</h2>
+<p>
+  <img src="" alt="LoggingIntoAVirtualMachine - Slide_35">
+</p>
+<p>
+ <ol type="1">
+ <li>A Windows Virtual Machine home page displays.</li>
+ </ol>
+ </p>
+ </br>
+ <hr>
