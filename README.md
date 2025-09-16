@@ -537,7 +537,7 @@ created.</li>
 <p>
   <ol type="1">
     <li>A Welcome screen to the Virtual Machine will display if all the steps were followed correctly.</li>
-    <li>This is a display screen for a Windows VM that we used for this tutorial.</li>
+    <li>This is a Welcome display screen for a Windows VM that is used for this tutorial.</li>
   </ol>
   </p>
   </br>
