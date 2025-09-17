@@ -28,7 +28,8 @@
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 Pro, version 22H2 - x64 Gen2
+- mac0S Monterey, Version 12.7.6
+- Windows 10 Pro, version 22H2 - x64 Gen2 (VM)
 
 <h2>List of Prerequisites</h2>
 
