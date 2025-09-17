@@ -578,4 +578,3 @@ created.</li>
 </ol>
 </br>
 <hr>
- Managing Virtual Machine when not in use
