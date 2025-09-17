@@ -376,7 +376,6 @@
 <ol type="1">
 <li>Creating a Virtual Machine.</li>
 <li>Logging into the Virtual Machine.</li>
-<li>Logging out of the VM and managing when not in use.</li>
 </ol>
 </br>
 <hr>
