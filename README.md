@@ -461,7 +461,7 @@ created.</li>
 
 
 <h2>Logging Into a Virtual Machine</h2>
-<h3>The Virtual Machine that is accessed in this tutorial is from a Mac Computer to a Windows PC. Towards the end of the logging in tutorial the version of Windows PC to Mac Computer will be presented</h3>
+<h3>The Virtual Machine that is accessed in this tutorial is from a Mac Computer to a Windows Virtual Machine. Towards the end of the tutorial the reverse will be shown.</h3>
 <p>
 <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/95a413af6ef9b1e1154c1f15583ceb2f53785d92/images/Slide_28.jpg" alt="LoggingIntoAVirtualMachine - Slide_28">
 </p>
