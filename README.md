@@ -587,13 +587,27 @@ created.</li>
 
   <h2>Logging Into a Virtual Machine - Reverse Order (Windows To Mac)</h2>
 <p>
-  <img src="" alt="LoggingIntoAVirtualMachineReverse - Slide_37">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/155cf9bcaed301e1de61b76941c99cc92b404f28/images/Slide_37.jpg" alt="LoggingIntoAVirtualMachineReverse - Slide_37">
 </p>
 <p>
  <ol type="1">
  <li>A Remote Desktop Connection box will open up once the application is open.</li>
     <li>Copy and paste the IP address from the created Virtual Machine.</li>
     <li>Click connect to continue.li>
+ </ol>
+ </p>
+ </br>
+ <hr>
+
+ <h2>Logging Into a Virtual Machine - Reverse Order (Windows To Mac)</h2>
+<p>
+  <img src="" alt="LoggingIntoAVirtualMachineReverse - Slide_38">
+</p>
+<p>
+ <ol type="1">
+ <li>Fill in the username and password that was created in the Virtual Machine.</li>
+    <li>Click OK to continue.</li>
+    <li>You have now accessed a Virtual Machine From Windows PC to a Mac or Linux operating system</li>
  </ol>
  </p>
  </br>
