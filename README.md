@@ -574,12 +574,26 @@ created.</li>
 
   <h2>Logging Into a Virtual Machine - Reverse Order (Windows To Mac)</h2>
 <p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/9d01252cf64a6e210abf16dae0672f8c46591d6f/images/Slide_36.jpg" alt="LoggingIntoAVirtualMachineReverse - Slide_35">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/9d01252cf64a6e210abf16dae0672f8c46591d6f/images/Slide_36.jpg" alt="LoggingIntoAVirtualMachineReverse - Slide_36">
 </p>
 <p>
  <ol type="1">
  <li>On a Windows Virtual Machine, type Remote Desktop in the search box to locate it.</li>
     <li>Click on the Remote Desktop Connection application to open it and continue.</li>
+ </ol>
+ </p>
+ </br>
+ <hr>
+
+  <h2>Logging Into a Virtual Machine - Reverse Order (Windows To Mac)</h2>
+<p>
+  <img src="" alt="LoggingIntoAVirtualMachineReverse - Slide_37">
+</p>
+<p>
+ <ol type="1">
+ <li>A Remote Desktop Connection box will open up once the application is open.</li>
+    <li>Copy and paste the IP address from the created Virtual Machine.</li>
+    <li>Click connect to continue.li>
  </ol>
  </p>
  </br>
