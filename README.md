@@ -565,6 +565,7 @@ created.</li>
 <p>
  <ol type="1">
  <li>A Windows Virtual Machine home page displays.</li>
+   <li>That is how you log into a Windows Virtual Machine from a Mac computer.</li>
  </ol>
  </p>
  </br>
