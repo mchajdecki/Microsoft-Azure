@@ -572,7 +572,7 @@ created.</li>
  <hr>
 
 
-  <h2>Logging Into a Virtual Machine - Reverse Order (Windows To Mac)</h2>
+  <h2>Logging Into a Virtual Machine - Reverse Order (Windows To Mac/Linux)</h2>
 <p>
   <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/9d01252cf64a6e210abf16dae0672f8c46591d6f/images/Slide_36.jpg" alt="LoggingIntoAVirtualMachineReverse - Slide_36">
 </p>
@@ -585,7 +585,7 @@ created.</li>
  </br>
  <hr>
 
-  <h2>Logging Into a Virtual Machine - Reverse Order (Windows To Mac)</h2>
+  <h2>Logging Into a Virtual Machine - Reverse Order (Windows To Mac/Linux)</h2>
 <p>
   <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/155cf9bcaed301e1de61b76941c99cc92b404f28/images/Slide_37.jpg" alt="LoggingIntoAVirtualMachineReverse - Slide_37">
 </p>
@@ -599,7 +599,7 @@ created.</li>
  </br>
  <hr>
 
- <h2>Logging Into a Virtual Machine - Reverse Order (Windows To Mac)</h2>
+ <h2>Logging Into a Virtual Machine - Reverse Order (Windows To Mac/Linux)</h2>
 <p>
   <img src="" alt="LoggingIntoAVirtualMachineReverse - Slide_38">
 </p>
