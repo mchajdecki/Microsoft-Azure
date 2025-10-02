@@ -601,7 +601,7 @@ created.</li>
 
  <h2>Logging Into a Virtual Machine - Reverse Order (Windows To Mac/Linux)</h2>
 <p>
-  <img src="" alt="LoggingIntoAVirtualMachineReverse - Slide_38">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/518f2d20b30c33c539a722e39e863bcc180c1ee2/images/Slide_38.jpg" alt="LoggingIntoAVirtualMachineReverse - Slide_38">
 </p>
 <p>
  <ol type="1">
