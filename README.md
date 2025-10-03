@@ -657,7 +657,7 @@ created.</li>
 
 
 <p>
-  <img src="" alt="ManagingVirtualMachine - Slide_42">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/9a521cdacf2b89c1e0880ca250b65900ccff4b4e/images/Slide_42.jpg" alt="ManagingVirtualMachine - Slide_42">
 </p>
 <p>
   <ol type="1">
