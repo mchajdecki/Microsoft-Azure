@@ -622,7 +622,7 @@ created.</li>
  
 
 <h1 id="manage"> Managing Virtual Machine when not in use</h1>
-<h2>An Azure Virutal Machine (VM) can significantly run up costs when not shut down or deleted properly from the cloud. In the last portion of this tutorial we go over how to manage Virtual Machines in Azure</h3>
+<h2>An Azure Virutal Machine (VM) can significantly run up costs when not shut down or deleted properly from the cloud. In the last portion of this tutorial we go over how to manage Virtual Machines in Azure. Start - Stop - Restart - Delete.</h3>
 <ol type="1">
 <li>Running and Stopping Virtual Machines</li>
 <li>Deleting Virtual Machines.</li>
