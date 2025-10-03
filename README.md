@@ -679,6 +679,6 @@ created.</li>
 <li><a href="#vm">Creating a Virtual Machine and Logging In</a></li>
 <li><a href="#manage">Managing Virtual Machine when not in use</a></li>
 </ul>
-<a href="#top" ><b>Back To Top</b></a>
+<a href="#top" ><strong>Back To Top</strong></a>
 
 
