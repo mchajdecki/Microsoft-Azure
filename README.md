@@ -662,13 +662,23 @@ created.</li>
 <p>
   <ol type="1">
 <li>Once the VM delete is complete a successfull confirmation window will appear.</li>
-<li>The Virtual Machine Has been succesfully deleted.</li>
+<li>The Virtual Machine has been succesfully deleted.</li>
 </ol>
 </p>
 <br>
 <hr>
 
 
-
+<h2>This concludes this tutorial to Microsoft Azure Introduction Set Up and Getting Started</h2>
+<br>
+<h2>Use any of the following sections below for further review and tutorial.</h2>
+<ul>
+<li><a href="#intro">The setup and introduction to Microsoft Azure</a></li>
+<li><a href="#resource">Creating a Resource Group</a></li>
+<li><a href="#storage">Creating a Storage Account</a></li>
+<li><a href="#files">Working With Files</a></li>
+<li><a href="#vm">Creating a Virtual Machine and Logging In</a></li>
+<li><a href="#manage">Managing Virtual Machine when not in use</a></li>
+</ul>
 <a href="#top">Back To Top</a>
 
