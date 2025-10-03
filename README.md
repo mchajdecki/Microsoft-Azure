@@ -633,13 +633,13 @@ created.</li>
 
 
 <p>
- <img src="" alt="ManagingVirtualMachine - Slide_40">
+ <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/4900d5c7d9cd17171662f3235f4dd5f77acaf1a4/images/Slide_40.jpg" alt="ManagingVirtualMachine - Slide_40">
   </p>
   <p>
  <ol type="1">
    
-<li>Navigate to the Azure Home Page.</li>
-<li>Locate the created Virtual Machine and click it to open it.</li>
+<li>Once inside the Virtual Machine observe all the possible managing options.</li>
+<li>The options to manage the VM will be - Connect - Start - Restart - Stop - Hibernate - Capture - Delete - Refresh - Open in mobile - Feedback - CU/PS.</li>
 </ol>
 </p>
 </br>
