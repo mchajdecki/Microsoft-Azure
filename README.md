@@ -655,3 +655,20 @@ created.</li>
 <br>
 <hr>
 
+
+<p>
+  <img src="" alt="ManagingVirtualMachine - Slide_42">
+</p>
+<p>
+  <ol type="1">
+<li>Once the VM delete is complete a successfull confirmation window will appear.</li>
+<li>The Virtual Machine Has been succesfully deleted.</li>
+</ol>
+</p>
+<br>
+<hr>
+
+
+<h1> Managing Virtual Machine when not in use</h1>
+
+
