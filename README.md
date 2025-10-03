@@ -643,12 +643,13 @@ created.</li>
 <hr>
 
 <p>
-  <img src="" alt="ManagingVirtualMachine - Slide_41">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561731b1e93ab30ba4b5d752742d58d4545fbc86/images/Slide_41.jpg" alt="ManagingVirtualMachine - Slide_41">
 </p>
 <p>
   <ol type="1">
-<li></li>
-<li></li>
+<li>Click on the Delete option and observe a side box open up to continue the deletion process.</li>
+<li>Make sure to check all the boxes with associated resources and the agreement below.</li>
+    <li>Click Delete to continue.</li>
 </ol>
 </p>
 <br>
