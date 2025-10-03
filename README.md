@@ -670,7 +670,7 @@ created.</li>
 
 
 <h2>This concludes this tutorial to Microsoft Azure Introduction Set Up and Getting Started</h2>
-<h2>Use any of the following sections below for further review and tutorial.</h2>
+<h2>Use any of the following links below to revisit tutorial sections.</h2>
 <ul>
 <li><a href="#intro">The setup and introduction to Microsoft Azure</a></li>
 <li><a href="#resource">Creating a Resource Group</a></li>
@@ -679,6 +679,6 @@ created.</li>
 <li><a href="#vm">Creating a Virtual Machine and Logging In</a></li>
 <li><a href="#manage">Managing Virtual Machine when not in use</a></li>
 </ul>
-<a href="#top" >Back To Top</a>
+<a href="#top" ><b>Back To Top</b></a>
 
 
