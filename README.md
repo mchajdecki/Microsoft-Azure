@@ -670,7 +670,6 @@ created.</li>
 
 
 <h2>This concludes this tutorial to Microsoft Azure Introduction Set Up and Getting Started</h2>
-<br>
 <h2>Use any of the following sections below for further review and tutorial.</h2>
 <ul>
 <li><a href="#intro">The setup and introduction to Microsoft Azure</a></li>
