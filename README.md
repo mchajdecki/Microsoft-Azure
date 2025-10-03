@@ -616,28 +616,24 @@ created.</li>
 
 
 <h1 id="manage"> Managing Virtual Machine when not in use</h1>
-<h2>An Azure Virutal Machine (VM) can significantly run up costs when not shut down or deleted properly from the cloud. In the last portion of this tutorial we go over how to manage Virtual Machines in Azure. Start - Stop - Restart - Delete.</h3>
+<h2>An Azure Virutal Machine (VM) can significantly run up costs when not shut down or deleted properly from the cloud. In the last portion of this tutorial we go over how to manage Virtual Machines in Azure. Start - Stop - Restart - Delete.</h2>
 <br>
 <p>
  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/6a2d2d2d775641acf7b21ea2e89a8febac1d8150/images/Slide_39.jpg" alt="ManagingVirtualMachine - Slide_39">
   </p>
   <p>
- <ol type="1">
-   
+ <ol type="1"> 
 <li>Navigate to the Azure Home Page.</li>
 <li>Locate the created Virtual Machine and click it to open it.</li>
 </ol>
 </p>
 </br>
 <hr>
-
-
 <p>
  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/4900d5c7d9cd17171662f3235f4dd5f77acaf1a4/images/Slide_40.jpg" alt="ManagingVirtualMachine - Slide_40">
   </p>
   <p>
  <ol type="1">
-   
 <li>Once inside the Virtual Machine observe all the possible managing options.</li>
 <li>The options to manage the VM will be - Connect - Start - Restart - Stop - Hibernate - Capture - Delete - Refresh - Open in mobile - Feedback - CU/PS.</li>
 <li>When not using the Virtual Machine you want to stop it - When the Vm is no longer needed you want to delete it to conserve costs.</li>
@@ -645,3 +641,16 @@ created.</li>
 </p>
 </br>
 <hr>
+
+<p>
+  <img src="" alt="ManagingVirtualMachine - Slide_41">
+</p>
+<p>
+  <ol type="1">
+<li></li>
+<li></li>
+</ol>
+</p>
+<br>
+<hr>
+
