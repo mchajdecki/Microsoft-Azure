@@ -640,6 +640,7 @@ created.</li>
    
 <li>Once inside the Virtual Machine observe all the possible managing options.</li>
 <li>The options to manage the VM will be - Connect - Start - Restart - Stop - Hibernate - Capture - Delete - Refresh - Open in mobile - Feedback - CU/PS.</li>
+<li>When not using the Virtual Machine you want to stop it - When the Vm is no longer needed you want to delete it to conserve costs.</li>
 </ol>
 </p>
 </br>
