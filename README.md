@@ -643,7 +643,7 @@ created.</li>
 <hr>
 
 <p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561731b1e93ab30ba4b5d752742d58d4545fbc86/images/Slide_41.jpg" alt="ManagingVirtualMachine - Slide_41">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/6f2ba03f0353bcd88a5105e13d7d12cc8883b870/images/Slide_41.jpg" alt="ManagingVirtualMachine - Slide_41">
 </p>
 <p>
   <ol type="1">
