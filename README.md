@@ -294,7 +294,6 @@
 <br/>
 <hr>
 
-<h2>Uploading The Created Text File</h2>
 
 <p>
 <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_19.jpg" alt="WorkingWithFiles - Slide_19">
@@ -309,8 +308,6 @@
 <br/>
 <hr>
 
-<h2>Uploading The Created Text File</h2>
-
 <p>
 <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_20.jpg" alt="WorkingWithFiles - Slide_20">
 </p>
@@ -324,8 +321,6 @@
 </br>
 <hr>
 
-<h2>Uploading The Created Text File</h2>
-
 <p>
   <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_21.jpg" alt="WorkingWithFiles - Slide_21">
 </p>
@@ -337,8 +332,6 @@
 </p>
 </br>
 <hr>
-
-<h2>Uploading The Created Text File</h2>
 
 <p>
   <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_22.jpg" alt="WorkingWithFiles - Slide_22">
