@@ -137,7 +137,6 @@
 <br />
 <hr>
 
-<h2>Creating a Resource Group. Step - 1</h2>
 
 <p>
 <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide-7.jpg" alt="Creating a Resource Group - Slide_7"/>
