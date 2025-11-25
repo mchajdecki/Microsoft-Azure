@@ -150,10 +150,7 @@
   </ol>
 </p>
 <br />
-<hr>
-
-<h2>Creating a Resource Group Step - 2</h2>
-
+<hr
 
 <p>
 <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide-8.jpg" alt="Creating a Resource Group - Slide_8"/>
@@ -165,9 +162,6 @@
 </p>
 <br/>
 <hr>
-
-<h2>Creating a Resource Group Step - 3</h2>
-
 
 <p>
 <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide-9.jpg" alt="Creating a Resource Group - Slide_9"/>
