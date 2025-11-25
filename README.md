@@ -191,8 +191,6 @@
 <br />
 <hr>
 
-<h2>Creating a Storage Account</h2>
-
 <p>
 <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide_11.jpg" alt="Creating a Storage Account and Working With Files - Slide_11"/>
 </p>
@@ -203,8 +201,6 @@
 </p>
 <br />
 <hr>
-
-<h2>Creating a Storage Account</h2>
 
 <p>
   <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_12.jpg" alt="Creating a Storage Account and Working With Files - Slide_12">
@@ -219,8 +215,6 @@
 <br />
 <hr>
 
-<h2>Creating a Storage Account</h2>
-
 <p>
 <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_13.jpg" alt="Creating a Storage Account and Working With Files - Slide_13">
 </p>
@@ -232,8 +226,6 @@
 <br />
 <hr>
 
-<h2>Creating a Storage Account</h2>
-
 <p>
 <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_14.jpg" alt="Creating a Storage Account and Working With Files - Slide_14">
 </p>
@@ -244,8 +236,6 @@
 </p>
 <br />
 <hr>
-
-<h2>Creating a Storage Account</h2>
 
 <p>
 <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_15.jpg" alt="Creating a Storage Account and Working With Files - Slide_15">
