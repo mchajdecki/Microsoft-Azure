@@ -369,8 +369,6 @@
 </br>
 <hr>
 
-<h2>Creating a Virtual Machine</h2>
-
 <p>
   <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_24.jpg" alt="CreatingaVirtualMachine - Slide_24">
 </p>
@@ -382,8 +380,6 @@
 </p>
 </br>
 <hr>
-
-<h2>Creating a Virtual Machine</h2>
 
 <p>
   <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_25.jpg" alt="CreatingaVirtualMachine - Slide_25">
@@ -404,8 +400,6 @@ created.</li>
 </p>
 </br>
 <hr>
-
-<h2>Creating a Virtual Machine</h2>
 <p>
   <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/95a413af6ef9b1e1154c1f15583ceb2f53785d92/images/Slide_26.jpg" alt="CreatingaVirtualMachine - Slide_26">
 </p>
@@ -436,7 +430,6 @@ created.</li>
 <hr>
 
 
-<h2>Logging Into a Virtual Machine</h2>
 <h3>The Virtual Machine that is accessed in this tutorial is from a Mac Computer to a Windows Virtual Machine. Towards the end of the tutorial the reverse will be shown.</h3>
 <p>
 <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/95a413af6ef9b1e1154c1f15583ceb2f53785d92/images/Slide_28.jpg" alt="LoggingIntoAVirtualMachine - Slide_28">
@@ -451,7 +444,6 @@ created.</li>
 </br>
 <hr>
 
-<h2>Logging Into a Virtual Machine</h2>
 <p>
   <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/95a413af6ef9b1e1154c1f15583ceb2f53785d92/images/Slide_29.jpg" alt="LoggingIntoAVirtualMachine - Slide_29">
 </p>
@@ -464,7 +456,6 @@ created.</li>
 </br>
 <hr>
 
-<h2>Logging Into a Virtual Machine</h2>
 <p>
   <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a9a63e5d632c2c84c56179cfeae2338a93bbe86b/images/Slide_30.jpg" alt="LoggingIntoAVirtualMachine - Slide_30">
 </p>
@@ -479,7 +470,6 @@ created.</li>
 </br>
 <hr>
 
-<h2>Logging Into a Virtual Machine</h2>
 <p>
   <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/d134a7038cc557ec3e7700c8a626de602995620b/images/Slide_31.jpg" alt="LoggingIntoAVirtualMachine - Slide_31">
 </p>
@@ -491,8 +481,6 @@ created.</li>
   </p>
   </br>
   <hr>
-
-  <h2>Logging Into a Virtual Machine</h2>
 <p>
   <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/840983e9f13b0689b63328c7804e995fd2bd1276/images/Slide_32.jpg" alt="LoggingIntoAVirtualMachine - Slide_32">
 </p>
@@ -520,7 +508,6 @@ created.</li>
   </br>
   <hr>
 
-  <h2>Logging Into a Virtual Machine</h2>
 <p>
   <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/b6787d44059598c2eade4fd3e1eacc516a37adfa/images/Slide_34.jpg" alt="LoggingIntoAVirtualMachine - Slide_34">
 </p>
@@ -534,7 +521,6 @@ created.</li>
  </br>
  <hr>
 
-  <h2>Logging Into a Virtual Machine</h2>
 <p>
   <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/0944ae8630442293e1598a0ee2d0ae9d4d6edf73/images/Slide_35.jpg" alt="LoggingIntoAVirtualMachine - Slide_35">
 </p>
@@ -561,7 +547,6 @@ created.</li>
  </br>
  <hr>
 
-  <h2>Logging Into a Virtual Machine - Reverse Order (Windows To Mac/Linux)</h2>
 <p>
   <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/155cf9bcaed301e1de61b76941c99cc92b404f28/images/Slide_37.jpg" alt="LoggingIntoAVirtualMachineReverse - Slide_37">
 </p>
@@ -575,7 +560,6 @@ created.</li>
  </br>
  <hr>
 
- <h2>Logging Into a Virtual Machine - Reverse Order (Windows To Mac/Linux)</h2>
 <p>
   <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/518f2d20b30c33c539a722e39e863bcc180c1ee2/images/Slide_38.jpg" alt="LoggingIntoAVirtualMachineReverse - Slide_38">
 </p>
