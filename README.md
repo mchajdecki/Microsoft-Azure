@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/EVhaRNV.png" alt="Azure Logo" Width="600px" Height="200px">
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/384f24aee08f6fa733a4029f2da5fd9dc52b2f28/images/microsoft-azure-logo.png" alt="Azure Logo" Width="600px" Height="200px">
   
 </p>
 <h1>Microsoft Azure - Set Up and Getting Started</h1>
