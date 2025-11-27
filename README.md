@@ -14,7 +14,7 @@
 <li><a href="#vm">Creating a Virtual Machine and Logging In</a></li>
 <li><a href="#manage">Managing Virtual Machine when not in use</a></li>
 </ul>
-<br />
+<br>
 
 <h2>A Video Break Down Of Everything Discussed In This Tutorial.</h2>
 
@@ -37,7 +37,7 @@
 - Internet Access
 - Microsoft Account
 - Payment Method
-  <br/>
+  <br>
 
 <hr>
 
@@ -57,7 +57,7 @@
 <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/9bf61889a6455155c96763c825d094ca4c46459b/images/1.png" alt="Starting With Azure - Slide_1"/>
 </p>
 
-<br/>
+<br>
 
 <h2>Signing Into Microsoft or Creating a New Microsoft Account</h2>
 
@@ -72,7 +72,7 @@
 <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/d029c1fa1397bb8afe2dea0bac099b65a08a735a/images/2.png" alt="Creating An Account - Slide_2"/>
 </p>
 
-<br/>
+<br>
 
 
 <h2>Microsoft Verification Steps Prior To Signing In</h2>
@@ -88,7 +88,7 @@
 <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/6bc9799d5f6ae5a0b0366015fcdc6adb71dbf0cf/images/Slide-3.jpg" alt="Creating An Account - Slide_3"/>
 </p>
 
-<br/>
+<br>
 
 <h2>Azure Verification Steps Prior To Signing In</h2>
 
@@ -128,7 +128,9 @@
 <p>
  
 
-<br/>
+<br>
+<br>
+<br>
 
 <hr>
 
@@ -144,7 +146,7 @@
     <li>Click on the Resource Group Option to Continue.</li>
   </ol>
 </p>
-<br />
+<br>
 <hr>
 
 
