@@ -105,6 +105,8 @@
 <br/>
 
 <h2>Azure Home Page Breakdown</h2>
+ <h4>Once the account has been created and you are logged in the Azure main page will look like this.
+  Familiarize yourself with the features and navigation of Azure main portal</h4>
   <p>
 <ol type="1">
   <li><strong>Portal menu.</strong>This global element can help you to navigate between services. Here, the portal menu is in flyout mode, so it's hidden until you select the menu icon.</li>
@@ -124,10 +126,9 @@
 <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a482d0c2d7e895dc4a95ed80be6b646379264302/images/Slide-5.jpg" alt="Creating An Account - Slide_5"/>
 </p>
 <p>
-  <h4>Once the account has been created and you are logged in the Azure main page will look like this.
-  Familiarize yourself with the features and navigation of Azure main portal</h4>
+ 
 
-<br />
+<br/>
 
 <hr>
 
