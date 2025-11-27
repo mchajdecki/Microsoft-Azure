@@ -48,8 +48,8 @@
 
 <p>
   <ol type="1">
-    <li>Search on google or navigate in a browser to the <a href="https://azure.microsoft.com/en-us">Azure Website</a> and click Get Started With Azure located in a blue box.</li>
-    <li>Once you click Get Started With Azure you will be prompted to select either (Try Azure For Free) or (Pay As You Go Option). </li>
+    <li>Search on google or navigate in a browser to the <a href="https://azure.microsoft.com/en-us">Azure Website</a> and click get started with Azure located in a blue box.</li>
+    <li>Once you click get started with Azure you will be prompted to select either (Try Azure For Free) or (Pay As You Go Option). </li>
     <li>Read over the account that's right for you and select it to continue. </li>
   </ol>
 </p>
