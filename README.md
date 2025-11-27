@@ -72,34 +72,37 @@
 <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/d029c1fa1397bb8afe2dea0bac099b65a08a735a/images/2.png" alt="Creating An Account - Slide_2"/>
 </p>
 
-
 <br/>
+
 
 <h2>Microsoft Verification Steps Prior To Signing In</h2>
 
-
-<p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/6bc9799d5f6ae5a0b0366015fcdc6adb71dbf0cf/images/Slide-3.jpg" alt="Creating An Account - Slide_3"/>
-</p>
 <p>
 <ol type="1">
   <li>Enter the verification details for your Microsoft Account.</li>
   <li>Continue through the steps to finish the Set Up.</li>
 </ol>
-<br />
+</p>
+
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/6bc9799d5f6ae5a0b0366015fcdc6adb71dbf0cf/images/Slide-3.jpg" alt="Creating An Account - Slide_3"/>
+</p>
+
+<br/>
 
 <h2>Azure Verification Steps Prior To Signing In</h2>
 
-
-<p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/ba10361ffbf2a2eaf0ec5d8bb20cac0157bbb9be/images/Slide-4.jpg" alt="Creating An Account - Slide_4"/>
-</p>
 <p>
 <ol type="1">
   <li>Enter the verification details for your chosen Azure Account.</li>
   <li>Continue through the steps to finish the Verification and account set Up.</li>
 </ol>
-<br />
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/ba10361ffbf2a2eaf0ec5d8bb20cac0157bbb9be/images/Slide-4.jpg" alt="Creating An Account - Slide_4"/>
+</p>
+
+<br/>
 
 <h2>Azure Home Page Breakdown</h2>
 
