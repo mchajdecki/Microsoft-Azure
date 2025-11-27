@@ -105,14 +105,7 @@
 <br/>
 
 <h2>Azure Home Page Breakdown</h2>
-
-
-<p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a482d0c2d7e895dc4a95ed80be6b646379264302/images/Slide-5.jpg" alt="Creating An Account - Slide_5"/>
-</p>
-<p>
-  <h4>Once the account has been created and you are logged in the Azure main page will look like this.
-  Familiarize yourself with the features and navigation of Azure main portal</h4>
+  <p>
 <ol type="1">
   <li><strong>Portal menu.</strong>This global element can help you to navigate between services. Here, the portal menu is in flyout mode, so it's hidden until you select the menu icon.</li>
    <li><strong>Breadcrumb. </strong>Use the breadcrumb links to move back a level in your workflow.</li>
@@ -125,7 +118,17 @@
   <li><strong>Service menu.</strong> A menu with commands that are contextual to the service or resource that you're working with. Sometimes referred to as the resource menu.</li>
   <li><strong>Working pane.</strong> Displays details about the resource or service that's currently in focus.</li>
   </ol>
+  </p>
+
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a482d0c2d7e895dc4a95ed80be6b646379264302/images/Slide-5.jpg" alt="Creating An Account - Slide_5"/>
+</p>
+<p>
+  <h4>Once the account has been created and you are logged in the Azure main page will look like this.
+  Familiarize yourself with the features and navigation of Azure main portal</h4>
+
 <br />
+
 <hr>
 
 <h1 id="resource">Creating a Resource Group</h1>
