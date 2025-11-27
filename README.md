@@ -136,7 +136,7 @@
 <h2>A Resource Group is a folder in the cloud that holds virtual machines, virtual networks, storage accounts and other created services.</h2>
 
 <p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a482d0c2d7e895dc4a95ed80be6b646379264302/images/Slide-6.jpg" alt="Creating a Resource Group - Slide_6"/>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/fed0da540b0d047e943646d90c5c3b53a15ee83b/images/Slide_1.jpg" alt="Creating a Resource Group - Slide_6"/>
 </p>
 <p>
   <ol type="1">
