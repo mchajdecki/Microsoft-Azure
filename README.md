@@ -206,23 +206,22 @@
 <p>
 <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide_10.jpg" alt="Creating a Storage Account and Working With Files - Slide_10"/>
 </p>
-
 <br>
 <hr>
 
-<p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide_11.jpg" alt="Creating a Storage Account and Working With Files - Slide_11"/>
-</p>
 <p>
   <ol type="1">
     <li>Click create in the top left corner of the page or the option in the blue box below to continue.</li>
   </ol>
 </p>
-<br />
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide_11.jpg" alt="Creating a Storage Account and Working With Files - Slide_11"/>
+</p>
+
+<br>
 <hr>
 
 <p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_12.jpg" alt="Creating a Storage Account and Working With Files - Slide_12">
   <ol type="1">
     <li>Select the current subscription you are using.</li>
     <li>Select the resoure group created in the previous step to put your storage account into.</li>
@@ -231,41 +230,50 @@
     <li>Since we will only be storing a text file in this tutorial select the (Locally-redundant storage (LRS)) - which keeps your data safe by storing multiple copies within a single data center.</li>
   </ol>
 </p>
-<br />
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_12.jpg" alt="Creating a Storage Account and Working With Files - Slide_12">
+</p>
+<br>
 <hr>
 
-<p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_13.jpg" alt="Creating a Storage Account and Working With Files - Slide_13">
-</p>
+
 <p>
   <ol type="1">
     <li>Click create to finish creating the Storage Account.</li>
   </ol>
 </p>
-<br />
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_13.jpg" alt="Creating a Storage Account and Working With Files - Slide_13">
+</p>
+<br>
 <hr>
 
-<p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_14.jpg" alt="Creating a Storage Account and Working With Files - Slide_14">
-</p>
+
 <p>
   <ol type="1">
     <li>A display message and notification of “Your deployment is complete” will display when the storage account creation is successfull.</li>
   </ol>
 </p>
-<br />
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_14.jpg" alt="Creating a Storage Account and Working With Files - Slide_14">
+</p>
+<br>
 <hr>
 
-<p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_15.jpg" alt="Creating a Storage Account and Working With Files - Slide_15">
-</p>
+
+
 <p>
   <ol type="1">
     <li>The created storage account will be located in the appropriate resource group selected in the previous steps.</li>
     <li>The storage account has been created successfully.</li>
   </ol>
 </p>
-<br />
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_15.jpg" alt="Creating a Storage Account and Working With Files - Slide_15">
+</p>
+<br>
+<br>
+<br>
 <hr>
 
 <h1 id="files">Working With Files</h1>
