@@ -47,30 +47,33 @@
 <h2>Navigating to Azure Website and Creating an Account</h2>
 
 <p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/9bf61889a6455155c96763c825d094ca4c46459b/images/1.png" alt="Starting With Azure - Slide_1"/>
-</p>
-<p>
   <ol type="1">
     <li>Search on google or navigate in a browser to the <a href="https://azure.microsoft.com/en-us">Azure Website</a> and click Get Started With Azure located in a blue box.</li>
     <li>Once you click Get Started With Azure you will be prompted to select either (Try Azure For Free) or (Pay As You Go Option). </li>
     <li>Read over the account that's right for you and select it to continue. </li>
   </ol>
 </p>
-<br />
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/9bf61889a6455155c96763c825d094ca4c46459b/images/1.png" alt="Starting With Azure - Slide_1"/>
+</p>
+
+<br/>
 
 <h2>Signing Into Microsoft or Creating a New Microsoft Account</h2>
 
-
-<p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/d029c1fa1397bb8afe2dea0bac099b65a08a735a/images/2.png" alt="Creating An Account - Slide_2"/>
-</p>
 <p>
 <ol type="1">
   <li>Select the right Azure account for you.</li>
   <li>Log into an existing microsoft account if you have one.</li>
   <li>If you dont have an existing microsoft account, create one here.</li>
 </ol>
-<br />
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/d029c1fa1397bb8afe2dea0bac099b65a08a735a/images/2.png" alt="Creating An Account - Slide_2"/>
+</p>
+
+
+<br/>
 
 <h2>Microsoft Verification Steps Prior To Signing In</h2>
 
