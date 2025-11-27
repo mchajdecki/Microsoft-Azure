@@ -278,11 +278,6 @@
 
 <h1 id="files">Working With Files</h1>
 <h2>These steps will show how to create a simple text file and upload it to the created Storage Account from the previous step.</h2>
-<h3>Locate and select the appropriate software to create a text file.</h3>
-
-<p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_16.jpg" alt="WorkingWithFiles - Slide_16"/>
-</p>
 <p>
   <ol type="1">
     <li>Locate Notepad on Windows or the Text Edit software on a Mac computer.</li>
@@ -290,41 +285,43 @@
     <li>In this tutorial i am using Text Edit software from a Mac computer.</li>
   </ol>
 </p>
-<br/>
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_16.jpg" alt="WorkingWithFiles - Slide_16"/>
+</p>
+<br>
 <hr>
 
 <h3>Creating Text File</h3>
 
-<p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_17.jpg" alt="WorkingWithFiles - Slide_17"/>
-</p>
+
 <p>
  <ol type="1">
    <li>Create a simple text file.</li>
    <li>Save it on desktop as a .txt file for easy access.</li>
  </ol>
 </p>
-<br/>
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_17.jpg" alt="WorkingWithFiles - Slide_17"/>
+</p>
+<br>
 <hr>
 
 <h2>Uploading The Created Text File</h2>
 
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_18.jpg" alt="WorkingWithFiles - Slide_18">
-</p>
+
 <p>
   <ol type="1">
     <li>Locate the storage account created in the previous steps - Azure • Home • Storage Account.</li>
     <li>Find the data storage option and click on containers.</li>
   </ol>
 </p>
-<br/>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_18.jpg" alt="WorkingWithFiles - Slide_18">
+</p>
+<br>
 <hr>
 
 
-<p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_19.jpg" alt="WorkingWithFiles - Slide_19">
-</p>
 <p>
   <ol type="1">
     <li>Click on Container option in the Data Storage drop down and a new Container box will display to the right of the screen.</li>
@@ -332,12 +329,12 @@
     <li>Click Create.</li>
   </ol>
 </p>
-<br/>
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_19.jpg" alt="WorkingWithFiles - Slide_19">
+</p>
+<br>
 <hr>
 
-<p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_20.jpg" alt="WorkingWithFiles - Slide_20">
-</p>
 <p>
   <ol type="1">
     <li>Once you are inside the newly created container click on the upload option.</li>
@@ -345,24 +342,27 @@
     <li>Drag and drop the created text file into the upload box.</li>
   </ol>
 </p>
-</br>
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_20.jpg" alt="WorkingWithFiles - Slide_20">
+</p>
+<br>
 <hr>
 
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_21.jpg" alt="WorkingWithFiles - Slide_21">
-</p>
+
 <p>
   <ol type="1">
     <li>Once the text file has uploaded, click on the three dots on the right hand side and an option box will display.</li>
     <li>Click the view/edit option to preview the uploaded text file.</li>
   </ol>
 </p>
-</br>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_21.jpg" alt="WorkingWithFiles - Slide_21">
+</p>
+<br>
 <hr>
 
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_22.jpg" alt="WorkingWithFiles - Slide_22">
-</p>
+
+
 <p>
   <ol type="1">
     <li>After clicking on view/edit option the uploaded file will display a box.</li>
@@ -370,7 +370,12 @@
     <li>You have succesfully created and uploaded a Text File into the storage account on the Azure platform.</li>
   </ol>
 </p>
-</br>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_22.jpg" alt="WorkingWithFiles - Slide_22">
+</p>
+<br>
+<br>
+<br>
 <hr>
 
 <h1 id="vm">Creating a Virtual Machine and Logging In</h1>
@@ -384,33 +389,32 @@
 <hr>
 
 <h2>Creating a Virtual Machine</h2>
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_23.jpg"  alt="CreatingaVirtualMachine _ Slide_23">
-</p>
+
 <p>
   <ol type="1">
     <li>Go to the home page on the Azure platform and locate Virtual Machines.</li>
     <li>Click on Virutal Machine option to get started.</li>
   </ol>
 </p>
-</br>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_23.jpg"  alt="CreatingaVirtualMachine _ Slide_23">
+</p>
+<br>
 <hr>
 
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_24.jpg" alt="CreatingaVirtualMachine - Slide_24">
-</p>
 <p>
   <ol type="1">
     <li>Click create in either place on the Virtual Machines page.</li>
     <li>Select and click on Virtual Machine from the drop down menu.</li>
       </ol>
 </p>
-</br>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_24.jpg" alt="CreatingaVirtualMachine - Slide_24">
+</p>
+<br>
 <hr>
 
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_25.jpg" alt="CreatingaVirtualMachine - Slide_25">
-</p>
+
 <p>
   <ol type="1">
     <li>Select the subscription you are using.</li>
@@ -425,11 +429,14 @@ created.</li>
      <li>Click Review + Create.</li>
   </ol>
 </p>
-</br>
-<hr>
 <p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/95a413af6ef9b1e1154c1f15583ceb2f53785d92/images/Slide_26.jpg" alt="CreatingaVirtualMachine - Slide_26">
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_25.jpg" alt="CreatingaVirtualMachine - Slide_25">
 </p>
+<br>
+<hr>
+
+
+
 <p> 
   <ol type="1">
     <li>A message will display that the Validation has passed.</li>
@@ -437,15 +444,15 @@ created.</li>
     <li>The Virtual Machine has been successfully created.</li>
   </ol>
 </p>
-</br>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/95a413af6ef9b1e1154c1f15583ceb2f53785d92/images/Slide_26.jpg" alt="CreatingaVirtualMachine - Slide_26">
+</p>
+<br>
 <hr>
   
 
 <h2>Logging Into a Virtual Machine</h2>
-<h3>Prior to logging into the Virtual Machine gather the log in credentials created and the public IP address associated with Virtual Machine.</h3>
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/95a413af6ef9b1e1154c1f15583ceb2f53785d92/images/Slide_27.jpg" alt="LoggingIntoAVirtualMachine - Slide_27">
-</p>
+
 <p>
   <ol type="1">
     <li>Prior to logging into the Virtual Machine gather the log in credentials created and the public IP address associated with Virtual Machine. </li>
@@ -453,14 +460,16 @@ created.</li>
     <li>Copy the Public IP Address as you will need it for the Log In.</li>
   </ol>
 </p>
-</br>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/95a413af6ef9b1e1154c1f15583ceb2f53785d92/images/Slide_27.jpg" alt="LoggingIntoAVirtualMachine - Slide_27">
+</p>
+<br>
 <hr>
 
 
 <h3>The Virtual Machine that is accessed in this tutorial is from a Mac Computer to a Windows Virtual Machine. Towards the end of the tutorial the reverse will be shown.</h3>
-<p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/95a413af6ef9b1e1154c1f15583ceb2f53785d92/images/Slide_28.jpg" alt="LoggingIntoAVirtualMachine - Slide_28">
-</p>
+
+
 <p>
   <ol type="1">
     <li>In the App Store on a Mac device search for the Windows App software.</li>
@@ -468,24 +477,26 @@ created.</li>
     <li>Open the Windows App software.</li>
   </ol>
 </p>
-</br>
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/95a413af6ef9b1e1154c1f15583ceb2f53785d92/images/Slide_28.jpg" alt="LoggingIntoAVirtualMachine - Slide_28">
+</p>
+<br>
 <hr>
 
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/95a413af6ef9b1e1154c1f15583ceb2f53785d92/images/Slide_29.jpg" alt="LoggingIntoAVirtualMachine - Slide_29">
-</p>
+
 <p>
   <ol type="1">
     <li>Click on the + sign in the right hand corner of the Windows App and observe a drop dowm menu appear.</li>
     <li>From the drop down menu click on Add PC to continue the log in process.</li>
   </ol>
 </p>
-</br>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/95a413af6ef9b1e1154c1f15583ceb2f53785d92/images/Slide_29.jpg" alt="LoggingIntoAVirtualMachine - Slide_29">
+</p>
+<br>
 <hr>
 
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a9a63e5d632c2c84c56179cfeae2338a93bbe86b/images/Slide_30.jpg" alt="LoggingIntoAVirtualMachine - Slide_30">
-</p>
+
 <p>
   <ol type="1">
     <li>Add PC box will display.</li>
@@ -494,20 +505,26 @@ created.</li>
     <li>Click add option to continue.</li>
   </ol>
 </p>
-</br>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a9a63e5d632c2c84c56179cfeae2338a93bbe86b/images/Slide_30.jpg" alt="LoggingIntoAVirtualMachine - Slide_30">
+</p>
+<br>
 <hr>
 
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/d134a7038cc557ec3e7700c8a626de602995620b/images/Slide_31.jpg" alt="LoggingIntoAVirtualMachine - Slide_31">
-</p>
+
 <p>
   <ol type="1">
     <li>After copying and pasting the Public IP the PC Box will display.</li>
     <li>Double click the saved PC box to continue.</li>
   </ol>
   </p>
-  </br>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/d134a7038cc557ec3e7700c8a626de602995620b/images/Slide_31.jpg" alt="LoggingIntoAVirtualMachine - Slide_31">
+</p>
+  <br>
   <hr>
+
+  
 <p>
   <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/840983e9f13b0689b63328c7804e995fd2bd1276/images/Slide_32.jpg" alt="LoggingIntoAVirtualMachine - Slide_32">
 </p>
@@ -518,26 +535,25 @@ created.</li>
     <li>Enter the credentials and click continue.</li>
   </ol>
   </p>
-  </br>
+  <br>
   <hr>
 
 
-  <h2>Logging Into a Virtual Machine</h2>
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/75b52de34c4448a156a15b9b63ce50f0ea95360f/images/Slide_33.jpg" alt="LoggingIntoAVirtualMachine - Slide_33">
-</p>
+
+
 <p>
   <ol type="1">
     <li>A Welcome screen to the Windows Virtual Machine will display if all the steps were followed correctly.</li>
     <li>This is a Welcome display screen for a Windows VM that is used for this tutorial.</li>
   </ol>
   </p>
-  </br>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/75b52de34c4448a156a15b9b63ce50f0ea95360f/images/Slide_33.jpg" alt="LoggingIntoAVirtualMachine - Slide_33">
+</p>
+  <br>
   <hr>
 
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/b6787d44059598c2eade4fd3e1eacc516a37adfa/images/Slide_34.jpg" alt="LoggingIntoAVirtualMachine - Slide_34">
-</p>
+
 <p>
  <ol type="1">
  <li>A privacy settings screen will display next.</li>
@@ -545,38 +561,44 @@ created.</li>
  <li>Click Accept to continue.</li>
  </ol>
  </p>
- </br>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/b6787d44059598c2eade4fd3e1eacc516a37adfa/images/Slide_34.jpg" alt="LoggingIntoAVirtualMachine - Slide_34">
+</p>
+ <br>
  <hr>
 
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/0944ae8630442293e1598a0ee2d0ae9d4d6edf73/images/Slide_35.jpg" alt="LoggingIntoAVirtualMachine - Slide_35">
-</p>
+
 <p>
  <ol type="1">
  <li>A Windows Virtual Machine home page displays.</li>
    <li>That is how you log into a Windows Virtual Machine from a Mac computer.</li>
  </ol>
  </p>
- </br>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/0944ae8630442293e1598a0ee2d0ae9d4d6edf73/images/Slide_35.jpg" alt="LoggingIntoAVirtualMachine - Slide_35">
+</p>
+ <br>
+ <br>
+ <br>
  <hr>
 
 
   <h2>Logging Into a Virtual Machine - Reverse Order (Windows To Mac/Linux)</h2>
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/9d01252cf64a6e210abf16dae0672f8c46591d6f/images/Slide_36.jpg" alt="LoggingIntoAVirtualMachineReverse - Slide_36">
-</p>
-<p>
+
+
+  <p>
  <ol type="1">
  <li>On a Windows Virtual Machine, type Remote Desktop in the search box to locate it.</li>
     <li>Click on the Remote Desktop Connection application to open it and continue.</li>
  </ol>
  </p>
- </br>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/9d01252cf64a6e210abf16dae0672f8c46591d6f/images/Slide_36.jpg" alt="LoggingIntoAVirtualMachineReverse - Slide_36">
+</p>
+ <br>
  <hr>
 
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/155cf9bcaed301e1de61b76941c99cc92b404f28/images/Slide_37.jpg" alt="LoggingIntoAVirtualMachineReverse - Slide_37">
-</p>
+
 <p>
  <ol type="1">
  <li>A Remote Desktop Connection box will open up once the application is open.</li>
@@ -584,12 +606,13 @@ created.</li>
     <li>Click connect to continue.li>
  </ol>
  </p>
- </br>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/155cf9bcaed301e1de61b76941c99cc92b404f28/images/Slide_37.jpg" alt="LoggingIntoAVirtualMachineReverse - Slide_37">
+</p>
+ <br>
  <hr>
 
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/518f2d20b30c33c539a722e39e863bcc180c1ee2/images/Slide_38.jpg" alt="LoggingIntoAVirtualMachineReverse - Slide_38">
-</p>
+
 <p>
  <ol type="1">
  <li>Fill in the username and password that was created in the Virtual Machine.</li>
@@ -597,28 +620,39 @@ created.</li>
     <li>You have now accessed a Virtual Machine From Windows PC to a Mac or Linux operating system</li>
  </ol>
  </p>
- </br>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/518f2d20b30c33c539a722e39e863bcc180c1ee2/images/Slide_38.jpg" alt="LoggingIntoAVirtualMachineReverse - Slide_38">
+</p>
+ <br>
+ <br>
+ <br>
  <hr>
+
+
 
 
 
 <h1 id="manage"> Managing Virtual Machine when not in use</h1>
 <h2>An Azure Virutal Machine (VM) can significantly run up costs when not shut down or deleted properly from the cloud. In the last portion of this tutorial we go over how to manage Virtual Machines in Azure. Start - Stop - Restart - Delete.</h2>
 <br>
+
+
+
 <p>
- <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/6a2d2d2d775641acf7b21ea2e89a8febac1d8150/images/Slide_39.jpg" alt="ManagingVirtualMachine - Slide_39">
-  </p>
-  <p>
  <ol type="1"> 
 <li>Navigate to the Azure Home Page.</li>
 <li>Locate the created Virtual Machine and click it to open it.</li>
 </ol>
 </p>
-</br>
-<hr>
 <p>
- <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/4900d5c7d9cd17171662f3235f4dd5f77acaf1a4/images/Slide_40.jpg" alt="ManagingVirtualMachine - Slide_40">
+ <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/6a2d2d2d775641acf7b21ea2e89a8febac1d8150/images/Slide_39.jpg" alt="ManagingVirtualMachine - Slide_39">
   </p>
+<br>
+<hr>
+
+
+
+
   <p>
  <ol type="1">
 <li>Once inside the Virtual Machine observe all the possible managing options.</li>
@@ -626,12 +660,14 @@ created.</li>
 <li>When not using the Virtual Machine you want to stop it - When the Vm is no longer needed you want to delete it to conserve costs.</li>
 </ol>
 </p>
-</br>
+<p>
+ <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/4900d5c7d9cd17171662f3235f4dd5f77acaf1a4/images/Slide_40.jpg" alt="ManagingVirtualMachine - Slide_40">
+  </p>
+<br>
 <hr>
 
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/6f2ba03f0353bcd88a5105e13d7d12cc8883b870/images/Slide_41.jpg" alt="ManagingVirtualMachine - Slide_41">
-</p>
+
+
 <p>
   <ol type="1">
 <li>Click on the Delete option and observe a side box open up to continue the deletion process.</li>
@@ -639,18 +675,22 @@ created.</li>
     <li>Click Delete to continue.</li>
 </ol>
 </p>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/6f2ba03f0353bcd88a5105e13d7d12cc8883b870/images/Slide_41.jpg" alt="ManagingVirtualMachine - Slide_41">
+</p>
 <br>
 <hr>
 
 
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/9a521cdacf2b89c1e0880ca250b65900ccff4b4e/images/Slide_42.jpg" alt="ManagingVirtualMachine - Slide_42">
-</p>
+
 <p>
   <ol type="1">
 <li>Once the VM delete is complete a successfull confirmation window will appear.</li>
 <li>The Virtual Machine has been succesfully deleted.</li>
 </ol>
+</p>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/9a521cdacf2b89c1e0880ca250b65900ccff4b4e/images/Slide_42.jpg" alt="ManagingVirtualMachine - Slide_42">
 </p>
 <br>
 <hr>
