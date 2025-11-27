@@ -138,23 +138,19 @@
 
 <h1 id="resource">Creating a Resource Group</h1>
 <h2>A Resource Group is a folder in the cloud that holds virtual machines, virtual networks, storage accounts and other created services.</h2>
-
-<p>
-<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/fed0da540b0d047e943646d90c5c3b53a15ee83b/images/Slide_1.jpg" alt="Creating a Resource Group - Slide_6"/>
-</p>
 <p>
   <ol type="1">
     <li>Find the Resource Group Option on the home page of the Azure Portal or type in the search box.</li>
     <li>Click on the Resource Group Option to Continue.</li>
   </ol>
 </p>
+<p>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/fed0da540b0d047e943646d90c5c3b53a15ee83b/images/Slide_1.jpg" alt="Creating a Resource Group - Slide_6"/>
+</p>
+
 <br>
 <hr>
 
-
-<p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide-7.jpg" alt="Creating a Resource Group - Slide_7"/>
-</p>
 <p>
   <ol type="1">
     <li>Select the Subscription you are currently using.</li>
@@ -163,23 +159,25 @@
     <li>Click Review + Create on the bottom of the page to continue.</li>
   </ol>
 </p>
-<br />
-<hr
-
 <p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide-8.jpg" alt="Creating a Resource Group - Slide_8"/>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide-7.jpg" alt="Creating a Resource Group - Slide_7"/>
 </p>
+
+<br>
+<hr>
+
 <p>
   <ol type="1">
     <li>Click create again to continue.</li>
   </ol>
 </p>
-<br/>
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide-8.jpg" alt="Creating a Resource Group - Slide_8"/>
+</p>
+
+<br>
 <hr>
 
-<p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide-9.jpg" alt="Creating a Resource Group - Slide_9"/>
-</p>
 <p>
   <ol type="1">
     <li>A prompt message will display that the resource group has been successfully created.</li>
@@ -187,22 +185,29 @@
     <li>The Resource Group has been created.</li>  
   </ol>
 </p>
-<br/>
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide-9.jpg" alt="Creating a Resource Group - Slide_9"/>
+</p>
+<br>
+<br>
+<br>
 <hr>
+
 
 <h1 id="storage">Creating a Storage Account</h1>
 <h2>A storage account is a service that provides a secure place to store data like files, queues, blobs, tables, and disks, is used to manage and access different types of cloud storage in one place.</h2>
 
-<p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide_10.jpg" alt="Creating a Storage Account and Working With Files - Slide_10"/>
-</p>
 <p>
   <ol type="1">
     <li>Locate the storage account on the main azure home page portal or search box.</li>
     <li>Click on storage accounts option to continue.</li>
   </ol>
 </p>
-<br />
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide_10.jpg" alt="Creating a Storage Account and Working With Files - Slide_10"/>
+</p>
+
+<br>
 <hr>
 
 <p>
