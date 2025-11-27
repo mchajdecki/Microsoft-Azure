@@ -524,17 +524,19 @@ created.</li>
   <br>
   <hr>
 
-  
-<p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/840983e9f13b0689b63328c7804e995fd2bd1276/images/Slide_32.jpg" alt="LoggingIntoAVirtualMachine - Slide_32">
-</p>
-<p>
+
+
+  <p>
   <ol type="1">
     <li>Once the PC box is double clicked a pop up window will display.</li>
     <li>Here enter your usernam and password that was set up during the creation of the Virtual Machine.</li>
     <li>Enter the credentials and click continue.</li>
   </ol>
   </p>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/840983e9f13b0689b63328c7804e995fd2bd1276/images/Slide_32.jpg" alt="LoggingIntoAVirtualMachine - Slide_32">
+</p>
+
   <br>
   <hr>
 
